@@ -9,9 +9,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
+source-git-commit: d16c7e1164ee1e63e44d239f8bb3356ce0402246
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,9 @@ ht-degree: 0%
 
 Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) biedt u een beter inzicht in hoe u Adobe Audience Manager kunt gebruiken om een publiek te maken en activeren op elk kanaal of apparaat met behulp van de best-in-class van Adobe [!DNL data management platform].
 
-* Zie de **&quot;Nieuwe functies&quot;** hieronder voor de nieuwste updates en functies
 * **Personeelspikkels** benadrukt een aantal van onze favoriete inhoud
 * Verken de inhoud per onderwerp en subonderwerp in het dialoogvenster **linkernavigatie**
 * Gebruik de **zoeken** veld boven aan de pagina als u weet waarnaar u zoekt
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
