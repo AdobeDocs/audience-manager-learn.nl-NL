@@ -1,27 +1,29 @@
 ---
 title: Ononderbroken eigenschappen maken en beheren met BAAAM
-description: Wanneer u eigenschappen maakt, bewerkt of verwijdert, kunt u de interface gebruiken om deze een voor een te maken. Dit kan inefficiënt en tijdrovend zijn. In deze video leert u hoe u met BAAAM, het bulkbeheerprogramma van Audience Manager, ongekende kenmerken maakt, bewerkt en verwijdert met een eenvoudig Microsoft-werkblad als interface met de REST API.
+description: Wanneer u eigenschappen maakt, bewerkt of verwijdert, kunt u de interface gebruiken om deze een voor een te maken. Dit kan inefficiënt en tijdrovend zijn. In deze video leert u hoe u met BAAAM, Audience Manager-hulpprogramma voor bulkbeheer, grote hoeveelheden kenmerken kunt maken, bewerken en verwijderen met een eenvoudig Microsoft-werkblad als interface met de REST API.
 feature: Traits
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 330749.jpg
 kt: 6621
+last-substantial-update: 2025-04-18T00:00:00Z
 role: User
 level: Beginner
 exl-id: 5a1fb5f5-45cd-4ede-924b-1d2b92cfec92
-source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
+source-git-commit: b85100e7ad39468ba6bea2da77068ed37685c84d
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Ononderbroken eigenschappen maken en beheren met BAAAM
 
-Wanneer u eigenschappen maakt, bewerkt of verwijdert, kunt u de interface gebruiken om deze een voor een te maken. Dit kan inefficiënt en tijdrovend zijn. In deze video leert u hoe u met BAAAM, het bulkbeheerprogramma van Audience Manager, ongekende kenmerken maakt, bewerkt en verwijdert met een eenvoudig Microsoft-werkblad als interface met de REST API.
+Wanneer u eigenschappen maakt, bewerkt of verwijdert, kunt u de interface gebruiken om deze een voor een te maken. Dit kan inefficiënt en tijdrovend zijn. In deze video leert u hoe u met BAAAM, Audience Manager-hulpprogramma voor bulkbeheer, grote hoeveelheden kenmerken kunt maken, bewerken en verwijderen met een eenvoudig Microsoft-werkblad als interface met de REST API.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Ga voor meer informatie, zoals het downloaden van het BAAAM-werkblad, naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Voor meer informatie, met inbegrip van het downloaden van het werkblad BAAAM, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference) te bezoeken.
+
+>[!IMPORTANT]
+>
+>Voor BAAAM is Microsoft Excel vereist die op 64-bits Microsoft Windows wordt uitgevoerd. We raden u aan de nieuwste versie van Microsoft Excel te gebruiken. De Bulk Management Tools wordt niet meer ondersteund op macOS.
