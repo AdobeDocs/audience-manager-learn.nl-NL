@@ -24,4 +24,4 @@ Doorloop de gebieden in UI om een segment in Audience Manager tot stand te breng
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Voor meer informatie over segmenten raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Voor meer informatie over segmenten raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=nl-NL).

@@ -33,4 +33,4 @@ Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen betreffende Op men
 * [Creeer en vorm Op mensen-gebaseerde Doelen](create-and-configure-people-based-destinations.md)
 * [Begrijp en vorm de op Mensen-gebaseerde Bestemming van LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Deze video&#39;s kunnen samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Deze video&#39;s kunnen samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=nl-NL).

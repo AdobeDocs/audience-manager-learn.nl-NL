@@ -23,9 +23,9 @@ In dit artikel worden de stappen en aanbevelingen voor het bijwerken van Adobe A
 
 ## Overzicht {#overview}
 
-Audience Managers [!DNL Data Integration Library] (DIL) de code staat u toe om AAM op uw Website* uit te voeren. Bij het uitvoeren van vorige versies van DIL, werd het niet vereist om de Dienst van identiteitskaart van de Experience Cloud van Adobe te hebben ook (ECID) wordt uitgevoerd (hoewel het een zeer goed idee was). Vanaf DIL versie 8.0 is er een sterke afhankelijkheid van ECID versie 3.3 of hoger. Als u DIL 8.0 of later zonder ECID 3.3 of met een vroegere versie implementeert, krijgt u een fout en werkt deze niet. Aangezien er meerdere manieren zijn waarop u AAM kunt implementeren, hebben we deze pagina gemaakt om u enkele stappen te geven die u moet doorlopen, en enkele aanbevelingen. Hieronder vindt u deze stappen en aanbevelingen, uitgesplitst naar platform/implementatiemethode. Meer informatie over DIL is beschikbaar in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en).
+Audience Managers [!DNL Data Integration Library] (DIL) de code staat u toe om AAM op uw Website* uit te voeren. Bij het uitvoeren van vorige versies van DIL, werd het niet vereist om de Dienst van identiteitskaart van de Experience Cloud van Adobe te hebben ook (ECID) wordt uitgevoerd (hoewel het een zeer goed idee was). Vanaf DIL versie 8.0 is er een sterke afhankelijkheid van ECID versie 3.3 of hoger. Als u DIL 8.0 of later zonder ECID 3.3 of met een vroegere versie implementeert, krijgt u een fout en werkt deze niet. Aangezien er meerdere manieren zijn waarop u AAM kunt implementeren, hebben we deze pagina gemaakt om u enkele stappen te geven die u moet doorlopen, en enkele aanbevelingen. Hieronder vindt u deze stappen en aanbevelingen, uitgesplitst naar platform/implementatiemethode. Meer informatie over DIL is beschikbaar in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=nl-NL).
 
-* Zoals vermeld in de beschrijving van deze pagina, zal dit slechts &quot;cliënt-kant&quot;DIL implementaties omvatten, die door AAM klanten worden gebruikt die geen Adobe Analytics hebben. Als u Adobe Analytics hebt, zou u de server-kant het door:sturen methode moeten gebruiken om AAM uit te voeren. Deze methode wordt beschreven in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+* Zoals vermeld in de beschrijving van deze pagina, zal dit slechts &quot;cliënt-kant&quot;DIL implementaties omvatten, die door AAM klanten worden gebruikt die geen Adobe Analytics hebben. Als u Adobe Analytics hebt, zou u de server-kant het door:sturen methode moeten gebruiken om AAM uit te voeren. Deze methode wordt beschreven in het dialoogvenster [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=nl-NL).
 
 ## Elementen en methoden dupliceren en vervangen {#duplicate-and-deprecated-elements-and-methods}
 
@@ -33,8 +33,8 @@ In eerdere versies van DIL en ECID waren er dubbele methoden (methoden die dezel
 
 Bijvoorbeeld:
 
-* Wanneer u [!DNL DIL.create], zijn enkele elementen vervangen en u moet in plaats daarvan de ECID-elementen gebruiken. Deze elementen worden in het [[!DNL DIL.create] documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html).
-* De [!DNL idSync] De methode op instantieniveau is ook vervangen, zoals wordt aangeroepen in de methode [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html).
+* Wanneer u [!DNL DIL.create], zijn enkele elementen vervangen en u moet in plaats daarvan de ECID-elementen gebruiken. Deze elementen worden in het [[!DNL DIL.create] documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=nl-NL).
+* De [!DNL idSync] De methode op instantieniveau is ook vervangen, zoals wordt aangeroepen in de methode [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html?lang=nl-NL).
 
 ## ID synchroniseren met een klant-id {#id-syncing-with-a-customer-id}
 
@@ -43,7 +43,7 @@ In AAM kunt u uw UUID (anonieme unieke gebruikersnaam) op de computer synchronis
 * De [!DNL idSync] instantieniveau, methode
 * De [!DNL declaredId] element in [!DNL DIL.create]
 
-Als u een van deze oudere methoden hebt gebruikt voor synchronisatie met een klant-id, is het raadzaam een update uit te voeren naar het gebruik van de [!DNL setCustomerIDs] methode, die deel uitmaakt van de ECID-dienst. Meer informatie over [!DNL setCustomerIDs] is beschikbaar in de methode [documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html).
+Als u een van deze oudere methoden hebt gebruikt voor synchronisatie met een klant-id, is het raadzaam een update uit te voeren naar het gebruik van de [!DNL setCustomerIDs] methode, die deel uitmaakt van de ECID-dienst. Meer informatie over [!DNL setCustomerIDs] is beschikbaar in de methode [documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=nl-NL).
 
 **Snelle tip:** Wanneer u eerder een van de bovenstaande methoden hebt gebruikt, verwijst u naar de AAM [!UICONTROL Data Source] met de [!UICONTROL Data Source] ID (AKA de &quot;DPID&quot;). Wanneer u bijwerkt naar [!DNL setCustomerIDs], moet u de AAM gebruiken [!UICONTROL Data Source]&#39; s &#39;[!UICONTROL Integration Code]&quot; in plaats daarvan. Het wijst nog steeds op hetzelfde [!UICONTROL Data Source] maar het is slechts een andere id. Dit wordt weergegeven in de onderstaande video.
 
@@ -84,22 +84,22 @@ Als u de code rechtstreeks op de pagina bijwerkt, kunt u alleen oudere items ver
 Hetzelfde geldt voor niet-Adobe-tagmanagers. overal waar u de oude versies in die oplossing van het markeringsbeheer hebt, vervang het met de nieuwe code zoals die in de volgende stappen wordt beschreven.
 
 1. Werk uw DIL-bibliotheek bij naar de nieuwste versie (8.0 of hoger) - U moet de nieuwste DIL-code ophalen van Adobe Consulting of Adobe Customer Care, omdat deze momenteel niet beschikbaar is op een openbare locatie. Vervang vervolgens gewoon de oude bibliotheekcode van de DIL door de nieuwe bibliotheekcode van de DIL en ga naar de volgende stap (stop nu niet of u gaat problemen krijgen, ha).
-1. Installeren [!DNL ECID Service] of werk de bestaande versie bij naar 3.3.0 of hoger. U kunt de nieuwste release van de Experience Cloud-id-service downloaden [van onze GitHub-pagina](https://github.com/Adobe-Marketing-Cloud/id-service/releases). Als u hier hulp bij nodig hebt, raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/id-service/using/home.html) of overleg met een Adobe Consultant.
+1. Installeren [!DNL ECID Service] of werk de bestaande versie bij naar 3.3.0 of hoger. U kunt de nieuwste release van de Experience Cloud-id-service downloaden [van onze GitHub-pagina](https://github.com/Adobe-Marketing-Cloud/id-service/releases). Als u hier hulp bij nodig hebt, raadpleegt u de [documentatie](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) of overleg met een Adobe Consultant.
 
 1. Controleer of afgekeurde methoden of elementen in de aangepaste code voor DIL naar de ECID-methoden worden verplaatst:
 
    1. (DIL) `disableDestinationPublishingIframe` -> (ECID) `disableIdSyncs`
 
-      [Documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html)
+      [Documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html?lang=nl-NL)
 
    1. (DIL) `disableIDSyncs` -> (ECID) `disableIdSyncs`
 
-      [Documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html)
+      [Documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html?lang=nl-NL)
 
    1. (DIL) `iframeAkamaiHTTPS` -> (ECID) `idSyncSSLUseAkamai`
 
-      [Documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html)
+      [Documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=nl-NL)
 
    1. (DIL) `declaredId` -> (ECID) `setCustomerIDs`
 
-      [Documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html)
+      [Documentatie](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=nl-NL)

@@ -23,4 +23,4 @@ In deze video leert u hoe u de bijgewerkte aanbevelingen voor kenmerken kunt geb
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=nl-NL).

@@ -26,4 +26,4 @@ Wanneer het brengen van uw 1st-partij in Audience Manager om uw klant beter te b
 
 Voor een video over het benoemen en importeren van bestanden klikt u op [HIER](steps-for-ingesting-file-based-data.md).
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=nl-NL&).

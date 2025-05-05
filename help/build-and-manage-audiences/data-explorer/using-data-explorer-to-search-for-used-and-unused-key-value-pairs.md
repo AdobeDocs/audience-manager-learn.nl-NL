@@ -26,4 +26,4 @@ In het werk van dag tot dag in Audience Manager, zou u kunnen moeten snel te wet
 
 Als u wilt weten of een signaal in een eigenschap is gemaakt, hoeft u niet langer een BAAAM-bestand te downloaden en ook de [!UICONTROL Unused Signals] verslag. Nu kunt u gewoon zoeken naar dat sleutel/waardepaar in [!DNL Data Explorer], AKA de [!UICONTROL Signals] App, in AAM, en zoek sleutel/waardeparen die in eigenschappen en die zijn die niet, allen in de zelfde lijst zijn. Geweldig tijdbesparend!
 
-Meer informatie over [!UICONTROL Data Explorer], bezoek [Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Meer informatie over [!UICONTROL Data Explorer], bezoek [Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=nl-NL)).

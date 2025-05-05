@@ -26,7 +26,7 @@ In deze video worden gebruikers van Audience Managers door de functionaliteit vo
 
 Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies waarmee u meer kunt leren over Real-time Customer Data Platform. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
-* [Overzicht van gegevensbeheer](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
-* [Gegevens classificeren met beheerlabels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [Beleid voor gegevensgebruik maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Beleid voor gegevensgebruik afdwingen in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [Overzicht van gegevensbeheer](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=nl-NL#data-governance)
+* [Gegevens classificeren met beheerlabels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=nl-NL#data-governance)
+* [Beleid voor gegevensgebruik maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=nl-NL#data-governance)
+* [Beleid voor gegevensgebruik afdwingen in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=nl-NL#data-governance)

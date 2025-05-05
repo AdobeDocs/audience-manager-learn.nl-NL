@@ -74,7 +74,7 @@ In de volgende stappen wordt de implementatie beschreven.
 
 De belangrijkste voorwaarde voor de overgang naar server-kant door:sturen moet de Experience Cloud ID Service hebben uitgevoerd. Dit is het gemakkelijkst gedaan als u Experience Platform Launch gebruikt, in welk geval u eenvoudig de uitbreiding ECID installeert en het de rest zal doen.
 
-Als u een niet-Adobe TMS of helemaal geen TMS gebruikt, moet u ECID implementeren om **voor** andere Adobe-oplossingen. Zie de [ECID-documentatie](https://experienceleague.adobe.com/docs/id-service/using/home.html) voor meer informatie . De enige andere voorwaarde is betreffende codeversies, zodat aangezien u eenvoudig de meest recente versies van de code in de volgende stappen toepast, zult u in orde zijn.
+Als u een niet-Adobe TMS of helemaal geen TMS gebruikt, moet u ECID implementeren om **voor** andere Adobe-oplossingen. Zie de [ECID-documentatie](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) voor meer informatie . De enige andere voorwaarde is betreffende codeversies, zodat aangezien u eenvoudig de meest recente versies van de code in de volgende stappen toepast, zult u in orde zijn.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Als u server-zij niet het door:sturen van gegevens van doet [!DNL Analytics] Aud
 
 ![vals succes](assets/falsesuccess.png)
 
-Voor meer informatie over server-zij het door:sturen, gelieve te zien [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+Voor meer informatie over server-zij het door:sturen, gelieve te zien [documentatie](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=nl-NL).

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Zelfstudies voor Audience Managers
 
-Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) biedt u een beter inzicht in hoe u Adobe Audience Manager kunt gebruiken om een publiek te maken en activeren op elk kanaal of apparaat met behulp van de best-in-class van Adobe [!DNL data management platform].
+Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=nl-NL) biedt u een beter inzicht in hoe u Adobe Audience Manager kunt gebruiken om een publiek te maken en activeren op elk kanaal of apparaat met behulp van de best-in-class van Adobe [!DNL data management platform].
 
 * **Personeelspikkels** benadrukt een aantal van onze favoriete inhoud
 * Verken de inhoud per onderwerp en subonderwerp in het dialoogvenster **linkernavigatie**
@@ -38,11 +38,11 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;Adobe Experience Cloud met Web SDK implementeren&apos;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL">
     <strong>Zelfstudie Adobe Experience Cloud implementeren met Web SDK</strong>
     </a>
     </div>
@@ -51,11 +51,11 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=nl-NL">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;Segmenten in real-time CDP begrijpen&apos;" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=nl-NL">
     <strong>Begrijpen van Segmenten in real time CDP voor de Gebruikers van de Audience Manager</strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Welkom bij de website met zelfstudies voor Audience Managers. Deze zelfstudies s
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=nl-NL">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;Configure and report on Predictive Audiences in Audience Manager&apos;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=nl-NL">
     <strong>Configureer en rapporteer over voorspellende soorten publiek in Audience Manager</strong>
     </a>
     </div>

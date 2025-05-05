@@ -21,4 +21,4 @@ In deze video wordt u door de [!UICONTROL Destination] interface, het tonen van 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Ga voor meer informatie naar [Adresseerbaar publiek](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) in de productdocumentatie.
+Ga voor meer informatie naar [Adresseerbaar publiek](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=nl-NL) in de productdocumentatie.

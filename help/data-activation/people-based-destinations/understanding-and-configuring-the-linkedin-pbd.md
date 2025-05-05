@@ -24,6 +24,6 @@ Deze video bespreekt de concepten en de stappen om een [!UICONTROL People-Based 
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=nl-NL).
 
 U kunt ook aanvullende video&#39;s vinden over op mensen gebaseerde doelen [HIER](https://adobe.ly/aamlearnpbd).

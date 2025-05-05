@@ -32,4 +32,4 @@ Bekijk de video&#39;s en zelfstudies voor de functies voor het samenvoegen van p
 * [Identiteitsrapportage publiek interpreteren](interpret-audience-identity-reporting.md)
 * [Werken met maatstaven voor verschillende apparaten in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Deze video&#39;s kunnen samen met de [Documentatie over regels voor samenvoegen van profielen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Deze video&#39;s kunnen samen met de [Documentatie over regels voor samenvoegen van profielen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=nl-NL)

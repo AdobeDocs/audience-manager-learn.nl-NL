@@ -24,4 +24,4 @@ In deze video leert u waarom en hoe u de Experience Cloud-id-service gebruikt `s
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=nl-NL).

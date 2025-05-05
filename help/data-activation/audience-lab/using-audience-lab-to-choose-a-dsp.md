@@ -32,4 +32,4 @@ Een [!UICONTROL Audience Lab] De test is gemakkelijk en kan slechts in een paar 
 1. Controleer het testoverzicht en activeer de test
 1. Wanneer de test wordt gedaan, heb toegang tot de resultaten op het belangrijkste huisscherm van [!UICONTROL Audience Lab]
 
-Zie voor meer informatie de [functiedocumentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).
+Zie voor meer informatie de [functiedocumentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=nl-NL).

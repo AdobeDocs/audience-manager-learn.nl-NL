@@ -24,4 +24,4 @@ In deze video worden de opties voor filters en aanbevelingen in het dialoogvenst
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=nl-NL).

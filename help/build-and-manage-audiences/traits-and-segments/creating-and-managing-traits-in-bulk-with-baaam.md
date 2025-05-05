@@ -22,7 +22,7 @@ Wanneer u eigenschappen maakt, bewerkt of verwijdert, kunt u de interface gebrui
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Voor meer informatie, met inbegrip van het downloaden van het werkblad BAAAM, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference) te bezoeken.
+Voor meer informatie, met inbegrip van het downloaden van het werkblad BAAAM, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=nl-NL#reference) te bezoeken.
 
 >[!IMPORTANT]
 >

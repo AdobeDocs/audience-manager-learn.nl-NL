@@ -26,4 +26,4 @@ Door ingebouwde en douanetabellen op te gebruiken [!UICONTROL Signals Dashboard]
 
 Wanneer u tot [!UICONTROL Data Explorer], AKA de [!UICONTROL Signals] app, krijgt u een standaarddashboard met de bovenste signalen en nieuwe signalen te zien. Naast deze twee standaardinstellingen kunt u zoekopdrachten opslaan en toevoegen aan het dashboard, zodat u de belangrijkste gegevens snel op de voorpagina van de functie kunt bekijken.
 
-Meer informatie over [!UICONTROL Data Explorer], bezoek [Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Meer informatie over [!UICONTROL Data Explorer], bezoek [Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=nl-NL)).

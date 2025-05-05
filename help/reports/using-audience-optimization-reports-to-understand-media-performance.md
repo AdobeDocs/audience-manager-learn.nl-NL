@@ -24,4 +24,4 @@ Leer hoe u de Audience Optimization Reports kunt gebruiken om uw campagnes te ve
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
-Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting).
+Zie voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=nl-NL#reporting).
