@@ -14,22 +14,22 @@ ht-degree: 2%
 
 # Audience Manager-tutorials {#tutorials}
 
-+ [Zelfstudies voor Audience Managers](overview.md)
++ [Audience Manager-zelfstudies](overview.md)
 + Introductie tot Audience Manager {#intro-to-audience-manager}
    + [Hoe een DMP uw bedrijf kan veranderen](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Overzicht van een DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
-   + [Gebruiksgevallen Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
+   + [Audience Manager-gebruikskwesties](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Basisbegrippen en -concepten begrijpen](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
-   + [Begrijp de Stroom van Gegevens in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
+   + [Begrijp de gegevensstroom in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
    + [Inleiding tot identiteit in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Waarderealisatie {#value-realization}
       + [Het meten van ROI in een het gebruikscase van de Onderdrukking van de Klant](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
-+ Industrienieuws en trends {#industry}
-   + [ De Toekomst van gegevensbeheer en het veranderende milieu ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=nl-NL)
-   + [ 10 overwegingen voor het verantwoordelijke beheer van klantengegevens ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=nl-NL)
-   + [ Een Taal van Twee Percepties - Merken vs. Consumenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=nl-NL)
-   + [ evoluerend uw Centrum van de Publiek van Uitmuntendheid ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=nl-NL)
-   + [ Bouwend betere ervaringen met klantenprofielen ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=nl-NL)
++ Nieuws en trends in de industrie {#industry}
+   + [ De Toekomst van gegevensbeheer en het veranderende milieu ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [ 10 overwegingen voor het verantwoordelijke beheer van klantengegevens ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [ Een Taal van Twee Percepties - Merken vs. Consumenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [ evoluerend uw Centrum van de Publiek van Uitmuntendheid ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [ Bouwend betere ervaringen met klantenprofielen ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Instellen en beheren {#setup-and-admin}
    + Gegevensbronnen {#data-sources}
       + [Een gegevensbron maken voor analysegegevens](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -45,36 +45,36 @@ ht-degree: 2%
 + Webimplementatie {#web-implementation}
    + DIL (Data Integration Library) {#dil}
       + [Bijwerken naar DIL versie 8.0 (of hoger)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
-   + SSF (server-side door:sturen) {#ssf}
-      + [ de markeringen van het Experience Platform van het Gebruik in Websites uit te voeren ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=nl-NL)
-      + [De AAM implementatie van uw site migreren van client-side DIL naar server-side door:sturen](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
+   + SSF (server-kant door:sturen) {#ssf}
+      + [ de markeringen van Experience Platform van het Gebruik om in Websites uit te voeren ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [De AAM-implementatie van uw site migreren van client-side DIL naar server-side forward](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migreren van het volgen server aan reeks-Vlakke server-zijdoor:sturen](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Tagmanagers gebruiken om Audience Manager te implementeren](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Hoe te om uw identiteitskaart van de Partner of Subdomain te identificeren](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
-   + [Aanbevolen werkwijzen gebruiken op SPA pagina&#39;s](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
+   + [Gebruik beste praktijken op pagina&#39;s van het KUUROORD](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
 + Offlinegegevens integreren {#integrating-offline-data}
    + [Bestandsgegevens opmaken en invoeren](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Stappen voor het invoeren van op een bestand gebaseerde gegevens](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobiele implementatie {#mobile-implementation}
-   + [ voer in de Verweven toepassingen van iOS uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=nl-NL)
-   + [ voer in iOS doelstelling-C toepassingen uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=nl-NL)
-   + [ voert in de toepassingen van Android uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=nl-NL)
+   + [ voer in de Verweven toepassingen van iOS uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [ voer in iOS doelstelling-C toepassingen uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [ voert in de toepassingen van Android uit ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
    + Gegevens kopen {#buying-data}
       + [Rapportage van het gebruik van gegevens van derden in Audience Marketplace op segmentniveau](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
-      + [Bulkgebruik van uploadgegevens naar Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
-      + [Gebruik filters en aanbevelingen om gegevens van derden in Audience Marketplace te kiezen](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-   + Gegevens verkopen {#selling-data}
+      + [Gebruik van gegevens voor uploaden in Audience Marketplace opheffen](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
+      + [Gebruik filters en aanbevelingen om gegevens van derden te kiezen in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + Verkoopgegevens {#selling-data}
       + [Commercialiseren van publiek in eigendom op Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
-+ Stimuleren en beheren van soorten publiek {#build-and-manage-audiences}
++ Stimuleren en beheren van publiek {#build-and-manage-audiences}
    + Gegevensverkenner {#data-explorer}
       + [Gebruik het dashboard Signals om snel de bovenste beschikbare signalen te bekijken](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
-      + [Data Explorer gebruiken om te zoeken naar gebruikte en ongebruikte sleutel/waardeparen](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
-      + [Zoekopdrachten opslaan in Data Explorer voor eenvoudig hergebruik](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
+      + [Data Explorer gebruiken om te zoeken naar gebruikte en ongebruikte sleutel-/waardeparen](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
+      + [Zoekopdrachten opslaan in Data Explorer voor handig hergebruik](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
       + [Data Explorer gebruiken om retroactieve kenmerken en segmenten te maken](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
       + [Data Explorer gebruiken om het maken van sporen voor gegevens aan boord te valideren](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
-      + [Data Explorer gebruiken om te werken met signalen die afkomstig zijn uit Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
-   + Lijnen en segmenten {#traits-and-segments}
+      + [Data Explorer gebruiken om te werken met signalen uit Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
+   + Treinen en segmenten {#traits-and-segments}
       + [Het ontwerp van de planningseigenschap op basis van analysegegevens](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
       + [Een taxonomie maken](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
       + [Een op regels gebaseerd kenmerk maken](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
@@ -96,7 +96,7 @@ ht-degree: 2%
       + [Codeweergave gebruiken bij het maken van segmenten](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
       + [Segmenten uit Adobe Analytics importeren in Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [Bouw een segment om advertenties aan klanten te onderdrukken](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
-      + [De segmenten van de Audience Manager van de kaart aan bestemmingen](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
+      + [Audience Manager-segmenten toewijzen aan doelen](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [De segmenten van de kaart aan een op apparaat-gebaseerde bestemming](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
       + [Getallen begrijpen in de grafiek van de Treit](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.md)
       + [Getallen in de segmentgrafiek begrijpen](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
@@ -123,15 +123,15 @@ ht-degree: 2%
       + [Interdevice metriek begrijpen in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Tips voor klanten - het meeste uit de regels voor het samenvoegen van profielen halen](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Gegevensactivering {#data-activation}
-   + Grondbeginselen van doelen {#destinations-basics}
-      + [Begrijp de bestemmingstypes van de Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
+   + Grondbeginselen van bestemmingen {#destinations-basics}
+      + [Audience Manager-doeltypen begrijpen](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Overeenkomsten begrijpen](data-activation/destinations-basics/understanding-match-rates.md)
       + [Begrijp de interface van het gelijke tarief](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
       + [Met labels voor gegevensexport kunt u de gegevensstroom beheren](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
-      + [Het Laboratorium van het publiek van het Gebruik om een DSP te kiezen](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [ creeer omzettingseigenschappen ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=nl-NL)
-   + Op personen gebaseerde doelen {#people-based-destinations}
+      + [Het Laboratorium van de Publiek van het gebruik om een DSP te kiezen](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
+      + [ creeer omzettingseigenschappen ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+   + Op mensen gebaseerde Doelen {#people-based-destinations}
       + [Video&#39;s en zelfstudies over op personen gebaseerde doelen](data-activation/people-based-destinations/pbd.md)
       + [Gegevensstroom op basis van persoonlijke doelen](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
       + [Creeer een gegevensbron voor Mensen-gebaseerde Doelen](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
@@ -141,16 +141,16 @@ ht-degree: 2%
       + [Configureer de regels voor het samenvoegen van profielen voor op mensen gebaseerde doelen](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
       + [Segmenten maken voor op mensen gebaseerde doelen](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [Creeer en vorm Op mensen-gebaseerde Doelen](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
-      + [Begrijp en vorm de op Mensen gebaseerde bestemming van LinkedIn](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
+      + [Begrijp en vorm de op Mensen-Gebaseerde bestemming LinkedIn](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [Begrijp en vorm de klant-gelijke Op mensen-gebaseerde bestemming van Google](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Rapporten {#reports}
    + [Algemene rapporten gebruiken met kenmerken en segmenten](reports/using-general-reports-with-traits-and-segments.md)
    + [Gedetailleerde rapporten gebruiken met kenmerken en segmenten](reports/using-trended-reports-with-traits-and-segments.md)
    + [Verwante soorten publiek begrijpen met Overlap-rapporten](reports/understand-related-audiences-with-overlap-reports.md)
-   + [Gebruik rapporten van het Audience Optimization om mediaprestaties te begrijpen](reports/using-audience-optimization-reports-to-understand-media-performance.md)
+   + [Audience Optimization-rapporten gebruiken om inzicht te krijgen in mediaprestaties](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Overige integratie {#other-integrations}
-   + Integreren met Real-time Customer Data Platform {#integrating-with-rtcdp}
-      + [ Samenvatting gegevens gebruikend de gegevensschakelaar van Adobe Audience Manager ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=nl-NL#sources)
+   + Integreren met Real-Time Customer Data Platform {#integrating-with-rtcdp}
+      + [ Samenvatting gegevens gebruikend de gegevensschakelaar van Adobe Audience Manager ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Begrijp eerste-partij gegevensopname in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Begrijp de gegevensopname van het Web in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Begrijp schema&#39;s en XDM in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)

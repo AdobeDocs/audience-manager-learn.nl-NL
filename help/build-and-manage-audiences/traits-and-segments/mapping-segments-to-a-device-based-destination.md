@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # De segmenten van de kaart aan een op apparaat-gebaseerde bestemming
 
-Om een publiekssegment uit naar een DSP of een andere partner te verzenden, moet u het segment aan een bestemming in Audience Manager in kaart brengen. Deze video doorloopt kaartsegmenten aan een op apparaat-gebaseerde bestemming, die ook als a wordt bekend _server-naar-server_ bestemming.
+Om een publiekssegment uit naar een DSP of een andere partner te verzenden, moet u het segment aan een bestemming in Audience Manager in kaart brengen. Deze video loopt door kaartsegmenten aan een op apparaat-gebaseerde bestemming, die ook als a _server-aan-server_ bestemming wordt bekend.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

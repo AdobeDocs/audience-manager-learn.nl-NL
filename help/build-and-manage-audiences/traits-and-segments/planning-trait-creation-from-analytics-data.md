@@ -1,6 +1,6 @@
 ---
 title: Het ontwerp van de planningseigenschap op basis van analysegegevens
-description: Leer tips en trucs om u te helpen wanneer u van plan bent Adobe Analytics-gegevens te gebruiken in uw eigenschappen in Audience Manager.
+description: Leer tips en trucs om u te helpen wanneer u van plan bent om Adobe Analytics-gegevens te gebruiken in uw trottoperaties in Audience Manager.
 feature: Traits
 topics: null
 activity: implement
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Het ontwerp van de planningseigenschap op basis van analysegegevens
 
-Leer tips en trucs om u te helpen wanneer u van plan bent Adobe Analytics-gegevens te gebruiken in uw eigenschappen in Audience Manager.
+Leer tips en trucs om u te helpen wanneer u van plan bent om Adobe Analytics-gegevens te gebruiken in uw trottoperaties in Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)

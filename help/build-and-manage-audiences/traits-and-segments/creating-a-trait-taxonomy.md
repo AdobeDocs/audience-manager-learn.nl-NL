@@ -1,6 +1,6 @@
 ---
 title: Een taxonomie maken
-description: Leer tips voor het maken van de mapstructuren die uw kenmerken in Audience Manager bevatten.
+description: Leer tips voor het maken van mapstructuren die uw kenmerken in Audience Manager bevatten.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Een taxonomie maken
 
-Leer tips voor het maken van de mapstructuren die uw kenmerken in Audience Manager bevatten.
+Leer tips voor het maken van mapstructuren die uw kenmerken in Audience Manager bevatten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

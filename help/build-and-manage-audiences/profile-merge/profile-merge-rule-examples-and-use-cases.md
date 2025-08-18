@@ -1,5 +1,5 @@
 ---
-title: Voorbeelden van samenvoegingsregels voor profielen en gebruik van hoofdletters en kleine letters
+title: Voorbeelden van samenvoegingsregels voor profielen en gebruiksgevallen
 description: Leer over voorbeelden van de Regels van de Fusie van het Profiel en wat zij betekenen, evenals de gebruiksgevallen die de Regels van de Fusie van het Profiel oplossen.
 feature: Profile Merge
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] Voorbeelden en gebruik
+# [!UICONTROL Profile Merge Rule] Voorbeelden en gebruik van hoofdletters en kleine letters
 
-In deze video ziet u voorbeelden van [!UICONTROL Profile Merge Rules] en wat zij betekenen, alsmede de gebruiksgevallen die [!UICONTROL Profile Merge Rules] oplossen.
+In deze video ziet u voorbeelden van [!UICONTROL Profile Merge Rules] en wat ze betekenen, plus de gebruiksgevallen die [!UICONTROL Profile Merge Rules] oplost.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

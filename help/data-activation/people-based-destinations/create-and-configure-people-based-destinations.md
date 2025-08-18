@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Maken en configureren [!UICONTROL People-based Destinations]
 
-Deze video geeft u eerst wat informatie over eerste vereisten aan het creëren van uw op Mensen-Gebaseerde bestemming, en toont u dan ook hoe te om een geïntegreerde rekening (verbinding aan de partner, zoals te vormen [!DNL Facebook]). Het begeleidt u dan door de in-product opstelling van de bestemming zelf.
+Deze video geeft u eerst wat informatie over eerste vereisten aan het creëren van uw op mensen-Gebaseerde bestemming, en toont u dan ook hoe te om een geïntegreerde rekening (verbinding aan de partner, zoals [!DNL Facebook] te vormen). Het begeleidt u dan door de in-product opstelling van de bestemming zelf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

@@ -1,5 +1,5 @@
 ---
-title: De segmenten van de Audience Manager van de kaart aan bestemmingen
+title: Audience Manager-segmenten toewijzen aan doelen
 description: Leer over de verschillende soorten bestemmingen in Audience Manager en de details van het in kaart brengen van segmenten aan elk bestemmingstype.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# De segmenten van de Audience Manager van de kaart aan bestemmingen
+# Audience Manager-segmenten toewijzen aan doelen
 
 Leer over de verschillende soorten bestemmingen in Audience Manager en de details van het in kaart brengen van segmenten aan elk bestemmingstype.
 

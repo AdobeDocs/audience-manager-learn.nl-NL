@@ -1,6 +1,6 @@
 ---
 title: Een op regels gebaseerd kenmerk maken
-description: Leer hoe te om de Bouwer van het Spoor in de Audience Manager UI te gebruiken om een op regel-gebaseerd bezit tot stand te brengen, dat u toestaat om activiteit in real time in de profielen van de Audience Manager te vangen.
+description: Leer hoe u de Trait Builder in de gebruikersinterface van Audience Manager gebruikt om een op regels gebaseerd kenmerk te maken, zodat u realtime activiteit kunt vastleggen in Audience Manager-profielen.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Een op regels gebaseerd kenmerk maken
 
-Leer hoe u de [!UICONTROL Trait Builder] in de Audience Manager UI om een op regel-gebaseerd bezit tot stand te brengen, dat u toestaat om activiteit in real time in de profielen van de Audience Manager te vangen.
+Leer hoe u [!UICONTROL Trait Builder] in de gebruikersinterface van Audience Manager gebruikt om een op regels gebaseerde eigenschap te maken, zodat u realtime activiteit kunt vastleggen in Audience Manager-profielen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

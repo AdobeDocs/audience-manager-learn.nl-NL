@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Gebruiken [!UICONTROL Data Export Labels] om gegevensstroom te regelen
+# Gebruik [!UICONTROL Data Export Labels] om de gegevensstroom te beheren
 
-[!UICONTROL Data Export Labels] Geef u een mechanisme in Audience Manager om de stroom van verschillende gegevenstypes/bronnen te controleren, zodat u aan uw privacyvereisten kunt voldoen. Leer hoe en waar u wilt instellen [!UICONTROL Data Export Controls] en [!UICONTROL Data Export Labels], om hiervoor samen te werken.
+[!UICONTROL Data Export Labels] biedt u een mechanisme in Audience Manager om de stroom van verschillende gegevenstypen/bronnen te beheren, zodat u aan uw privacyvereisten kunt voldoen. Leer hoe en waar u [!UICONTROL Data Export Controls] en [!UICONTROL Data Export Labels] moet instellen om in dit verband te werken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: Basisbegrippen en -concepten in Audience Manager begrijpen
+title: Basisbegrippen en -concepten begrijpen in Audience Manager
 description: Leer basisvoorwaarden en -concepten om in Adobe Audience Manager aan de slag te gaan - inclusief signalen, kenmerken, segmenten en meer, met deze ondersteuningsvideo.
 landing-page-description: Leer basisvoorwaarden en -concepten om in Adobe Audience Manager aan de slag te gaan - inclusief signalen, kenmerken, segmenten en meer, met deze ondersteuningsvideo.
 short-description: Leer basisvoorwaarden en -concepten om in Adobe Audience Manager aan de slag te gaan - inclusief signalen, kenmerken, segmenten en meer, met deze ondersteuningsvideo.
@@ -20,8 +20,8 @@ ht-degree: 60%
 
 ---
 
-# Basisbegrippen en -concepten in Audience Manager begrijpen
+# Basisbegrippen en -concepten begrijpen in Audience Manager
 
-In deze video zullen we enkele basistermen en -concepten bespreken die u in de Audience Manager aan de slag kunnen helpen, zoals signalen, kenmerken, segmenten, enzovoort.
+In deze video zullen we enkele basisvoorwaarden en -concepten bespreken die u in Audience Manager aan de slag kunnen helpen, zoals signalen, kenmerken, segmenten, enzovoort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: BAAAM instellen voor segmentbulkbeheer
-description: Meer informatie over BAAAM, het hulpprogramma voor bulkbeheer voor kenmerken en segmenten in de Audience Manager, inclusief hoe u het programma zo kunt instellen dat het gebruiksklaar wordt.
+description: Meer informatie over BAAAM, het hulpprogramma voor bulkbeheer voor kenmerken en segmenten in Audience Manager, en over hoe u het programma kunt instellen om klaar te zijn voor gebruik.
 feature: baaam
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # BAAAM instellen voor beheer van bulktransacties in segmenten
 
-Meer informatie over BAAAM, het hulpprogramma voor bulkbeheer voor kenmerken en segmenten in de Audience Manager, inclusief hoe u het programma zo kunt instellen dat het gebruiksklaar wordt.
+Meer informatie over BAAAM, het hulpprogramma voor bulkbeheer voor kenmerken en segmenten in Audience Manager, en over hoe u het programma kunt instellen om klaar te zijn voor gebruik.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)

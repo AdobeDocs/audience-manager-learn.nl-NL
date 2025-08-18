@@ -1,6 +1,6 @@
 ---
 title: Verbeteringen in de regel voor samenvoegen van profielen - voorwaarden
-description: Een overzicht van hoe u zich het beste kunt voorbereiden op de release van de Verbeteringen van de regel voor het samenvoegen van profielen.
+description: Een overzicht van hoe u zich het beste kunt voorbereiden op de release van Verbeteringen voor samenvoegregel voor profielen.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] verbeteringen - voorwaarden
+# [!UICONTROL Profile Merge Rule] Verbeteringen - voorwaarden
 
-Een overzicht van hoe u zich het beste kunt voorbereiden op de release van [!UICONTROL Profile Merge Rule] verbeteringen.
+Een overzicht van hoe u de release van [!UICONTROL Profile Merge Rule] -verbeteringen het beste kunt voorbereiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

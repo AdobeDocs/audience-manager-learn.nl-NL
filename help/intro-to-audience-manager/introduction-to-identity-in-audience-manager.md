@@ -1,5 +1,5 @@
 ---
-title: Inleiding tot Identiteit in Audience Manager
+title: Inleiding tot identiteit in Audience Manager
 description: Ontdek hoe Audience Manager identiteit beheert - inclusief interne profielen en samenvoegen van profielen, plus ID-synchronisatie met partners.
 landing-page-description: Ontdek hoe Audience Manager identiteit beheert - inclusief interne profielen en samenvoegen van profielen, plus ID-synchronisatie met partners.
 short-description: Ontdek hoe Audience Manager identiteit beheert - inclusief interne profielen en samenvoegen van profielen, plus ID-synchronisatie met partners.
@@ -20,7 +20,7 @@ ht-degree: 57%
 
 ---
 
-# Inleiding tot Identiteit in Audience Manager
+# Inleiding tot identiteit in Audience Manager
 
 In deze video leert u hoe Adobe Audience Manager identiteiten beheert, waaronder interne profielen en samenvoegen van profielen en ID-synchronisatie met partners.
 

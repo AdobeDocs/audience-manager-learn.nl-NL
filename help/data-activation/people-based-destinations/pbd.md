@@ -1,6 +1,6 @@
 ---
 title: Video's en zelfstudies over op personen gebaseerde doelen
-description: Leer over op mensen-gebaseerde Doelen in Audience Manager. Ontdek hoe u segmentatie kunt toepassen op online en offline gegevens om publiekssegmenten te maken op basis van hashed-id's, zoals e-mailadressen, enzovoort!
+description: Meer informatie over Op mensen gebaseerde Doelen in Audience Manager. Ontdek hoe u segmentatie kunt toepassen op online en offline gegevens om publiekssegmenten te maken op basis van hashed-id's, zoals e-mailadressen, enzovoort!
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # Video&#39;s en zelfstudies over op personen gebaseerde doelen
 
-De op mensen-gebaseerde Doelen laten u toe om segmentatie op online en off-line gegevens toe te passen om publiekssegmenten tot stand te brengen die op gehakte herkenningstekens, zoals e-mailadressen worden gebaseerd. Vervolgens kunt u deze segmenten naar sociale platforms, zoals [!DNL Facebook] of [!DNL LinkedIn], waar u uw publiek kunt richten.
+De op mensen-gebaseerde Doelen laten u toe om segmentatie op online en off-line gegevens toe te passen om publiekssegmenten tot stand te brengen die op gehakte herkenningstekens, zoals e-mailadressen worden gebaseerd. Vervolgens kunt u deze segmenten verzenden naar sociale platforms, zoals [!DNL Facebook] of [!DNL LinkedIn] , waar u uw doelgroep kunt instellen.
 
 Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen betreffende Op mensen gebaseerde Doelen. Zij zijn vermeld in deze orde op doel, aangezien u uw manier door de stroom/het proces werkt om op Mensen gebaseerde Doelen te vestigen:
 
@@ -31,6 +31,6 @@ Deze sectie bevat video&#39;s en zelfstudies voor onderwerpen betreffende Op men
 * [Configureer de regels voor het samenvoegen van profielen voor op mensen gebaseerde doelen](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [Segmenten maken voor op mensen gebaseerde doelen](creating-segments-for-people-based-destinations.md)
 * [Creeer en vorm Op mensen-gebaseerde Doelen](create-and-configure-people-based-destinations.md)
-* [Begrijp en vorm de op Mensen-gebaseerde Bestemming van LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
+* [Begrijp en vorm LinkedIn op mensen-gebaseerde Bestemming](understanding-and-configuring-the-linkedin-pbd.md)
 
-Deze video&#39;s kunnen samen met de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=nl-NL).
+Deze video&#39;s kunnen samen met de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) worden gebruikt.

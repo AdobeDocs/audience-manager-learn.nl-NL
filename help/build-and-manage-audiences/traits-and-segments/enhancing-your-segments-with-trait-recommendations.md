@@ -1,6 +1,6 @@
 ---
-title: Verbeter uw segmenten met Trait Recommendations
-description: Met Trait Recommendations, wanneer u een segment bouwt of uitgeeft, krijgt u aanbevelingen op extra eigenschappen u kunt omvatten, die aan de eigenschappen in de segmentregel gelijkaardig zijn.
+title: Verbeter uw segmenten met aanbevelingen voor overtrekken
+description: Met de Aanbevelingen van het Spoor, wanneer u een segment bouwt of uitgeeft, krijgt u aanbevelingen op extra eigenschappen u kunt omvatten, die aan de eigenschappen in de segmentregel gelijkaardig zijn.
 feature: Segments
 topics: null
 activity: use
@@ -13,17 +13,17 @@ level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
 source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # Verbeter uw segmenten met [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-Met [!UICONTROL Trait Recommendations], wanneer u een segment maakt of bewerkt in [!UICONTROL Segments], krijgt u aanbevelingen op extra eigenschappen u kunt omvatten, die aan de eigenschappen in de segmentregel gelijkaardig zijn.
+Wanneer u met [!UICONTROL Trait Recommendations] een segment maakt of bewerkt in [!UICONTROL Segments] , krijgt u aanbevelingen voor extra kenmerken die u kunt opnemen. Deze eigenschappen lijken op de kenmerken in de segmentregel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] werk aan zowel gegevens van de eerste partij als van de derde, zodat u extra geadviseerde kunt omvatten [!UICONTROL Traits] en vergroot het doelpubliek.
+[!UICONTROL Trait Recommendations] werkt aan gegevens van zowel de eerste als de derde partij, zodat u extra aanbevolen [!UICONTROL Traits] kunt opnemen en het doelpubliek kunt vergroten.
 
-Ga voor meer informatie over deze functie naar de [documentatie](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Voor meer informatie over deze eigenschap, gelieve de [ documentatie ](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html) te bezoeken.

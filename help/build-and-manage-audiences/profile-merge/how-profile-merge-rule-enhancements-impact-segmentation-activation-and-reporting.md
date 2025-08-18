@@ -1,6 +1,6 @@
 ---
 title: Hoe de Verbeteringen van de Regel van de Fusie van het Profiel segmentatie, activering, en rapportering beïnvloeden
-description: Begrijpen hoe de Verbeteringen van de Regel van de Samenvoeging van het Profiel de Totale Bedienings en Bevolkingen van het Segment in UI van de Audience Manager zullen beïnvloeden
+description: Begrijpen hoe de Verbeteringen van de Regel van de Samenvoeging van het Profiel de Totale Bedienings en Bevolkingen van het Segment in Audience Manager UI zullen beïnvloeden
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Hoe [!UICONTROL Profile Merge Rule] segmentatie, activering en rapportage van de invloed van verbeteringen
+# Hoe [!UICONTROL Profile Merge Rule] verbeteringen invloed hebben op segmentatie, activering en rapportage
 
-Begrijpen hoe [!UICONTROL Profile Merge Rule] Verbeteringen zullen gevolgen hebben [!UICONTROL Total Trait] en [!UICONTROL Segment Populations] in de Audience Manager.
+Begrijpen hoe [!UICONTROL Profile Merge Rule] Verbeteringen [!UICONTROL Total Trait] en [!UICONTROL Segment Populations] in Audience Manager beïnvloeden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

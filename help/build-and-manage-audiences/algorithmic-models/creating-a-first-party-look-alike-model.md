@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Een model voor weergave als eerste maken in de Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
+# Een eersteklas look-Alike-model maken in Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
 In deze video leert u hoe u een model maakt dat vergelijkbaar is met dat van de eerste partij, zodat u meer van uw eigen bezoekers kunt vinden die er uitzien als uw converters.
 
@@ -29,4 +29,4 @@ Gebruik hiervoor de volgende gevallen:
 * Als uitgever, als uw &quot;converters&quot;voorraad wordt verkocht, kunt u het uitbreiden door dit blik-gelijkaardige publiek ook te verkopen.
 * Voor degenen die op uw omzetters kijken maar nog niet, geef hen specifieke marketing of ervaringen op de plaats.
 
-Een bijkomend voordeel is dat dit volledig vrij voor u is, omdat u alleen gegevens gebruikt die u bezit. Dit helpt natuurlijk uw winsten te maximaliseren.
+Een bijkomend voordeel is dat dit volledig vrij voor u is, omdat u alleen gegevens gebruikt die u bezit. Dit helpt natuurlijk om uw winsten te maximaliseren.

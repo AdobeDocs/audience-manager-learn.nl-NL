@@ -10,15 +10,15 @@ level: Beginner
 exl-id: 903f8329-a434-4938-b190-600fc03b571d
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Begrijp de interface van de Tarief van de Gelijke in Audience Manager
 
-In deze video wordt u door de [!UICONTROL Destination] interface, het tonen van en het verklaren van de aantallen verbonden aan gelijke tarieven en adresseerbare publiek.
+In deze video wordt u door de interface [!UICONTROL Destination] geleid en worden de getallen weergegeven en uitgelegd die zijn gekoppeld aan overeenkomstenfrequenties en adresseerbare doelgroepen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Ga voor meer informatie naar [Adresseerbaar publiek](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=nl-NL) in de productdocumentatie.
+Voor meer informatie, bezoek [ Adresseerbare Soorten publiek ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) in productdocumentatie.

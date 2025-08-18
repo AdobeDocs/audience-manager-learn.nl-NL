@@ -25,7 +25,7 @@ Gemarkeerd zijn de volgende gebruiksgevallen:
 
 * Implementeren via Adobe Experience Platform-tags (voorheen Launch) wanneer u ook Adobe Analytics gebruikt
 * Implementeren via Adobe Experience Platform-tags als u Adobe Analytics niet gebruikt
-* Implementeren via een niet-Adobe tagbeheer bij gebruik van Adobe Analytics
-* Implementeren via een niet-Adobe tagbeheer wanneer u Adobe Analytics niet gebruikt
+* Implementeren via een niet-Adobe-tagbeheer bij gebruik van Adobe Analytics
+* Implementeren via een niet-Adobe-tagbeheer wanneer u Adobe Analytics niet gebruikt
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

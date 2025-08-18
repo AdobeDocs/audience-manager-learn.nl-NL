@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 Bekijk de video&#39;s en zelfstudies voor de functies voor het samenvoegen van profielen, waaronder Profielsamenvoegingsregels. Krijg controle over de gegevensreeksen die voor segmentatie worden gebruikt en nauwkeurig een persoon over veelvoudige apparaten richten.
 
 * [Overzicht van regels voor het samenvoegen van profielen](overview-of-profile-merge-rules.md)
-* [Voorbeelden van samenvoegingsregels voor profielen en gebruik van hoofdletters en kleine letters](profile-merge-rule-examples-and-use-cases.md)
+* [Voorbeelden van samenvoegingsregels voor profielen en gebruiksgevallen](profile-merge-rule-examples-and-use-cases.md)
 * [Overzicht van verbeteringen in de samenvoegregel voor profielen](overview-of-profile-merge-rule-enhancements.md)
 * [Eenvoudige regels voor het samenvoegen van profielen maken en gebruiken](creating-and-using-simple-profile-merge-rules.md)
 * [De Regels van de Fusie van het Profiel van het gebruik om in voor authentiek verklaarde staat te personaliseren](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
@@ -32,4 +32,4 @@ Bekijk de video&#39;s en zelfstudies voor de functies voor het samenvoegen van p
 * [Identiteitsrapportage publiek interpreteren](interpret-audience-identity-reporting.md)
 * [Werken met maatstaven voor verschillende apparaten in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Deze video&#39;s kunnen samen met de [Documentatie over regels voor samenvoegen van profielen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=nl-NL)
+Deze video&#39;s kunnen samen met de [ documentatie van de Regels van de Fusie van het Profiel worden gebruikt ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

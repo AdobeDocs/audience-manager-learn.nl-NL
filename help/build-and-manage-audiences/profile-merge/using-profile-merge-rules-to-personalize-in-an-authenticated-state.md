@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Gebruiken [!UICONTROL Profile Merge Rules] om in een voor authentiek verklaarde staat te personaliseren
+# Gebruik [!UICONTROL Profile Merge Rules] om in een geverifieerde staat aan te passen
 
-Geef uw het programma geopende klanten een gepersonaliseerde ervaring door deze te gebruiken [!UICONTROL Profile Merge Rule] instellingen.
+Geef uw aangemelde klanten een gepersonaliseerde ervaring door deze [!UICONTROL Profile Merge Rule] -instellingen te gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

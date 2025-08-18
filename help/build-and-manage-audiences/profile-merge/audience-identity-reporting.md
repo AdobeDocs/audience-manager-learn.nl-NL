@@ -1,6 +1,6 @@
 ---
 title: Identiteitsrapportage publiek
-description: Meer informatie over publieksidentificatierapportage. Met dit soort rapportage in de Audience Manager kunt u de totale populatie van een eigenschap of segment rapporteren per persoon of huishouden.
+description: Meer informatie over publieksidentificatierapportage. Met dit soort rapportage in Audience Manager kunt u de totale populatie van een eigenschap of segment rapporteren per persoon of huishouden.
 feature: profile merge
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Identiteitsrapportage publiek
 
-De rapportage van de identiteit van het publiek biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
+De rapportage van de identiteit van het publiek biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe deze in de Audience Manager-rapporten wordt getoond.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

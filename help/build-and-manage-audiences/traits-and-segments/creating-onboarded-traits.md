@@ -1,6 +1,6 @@
 ---
 title: Aan boord aanwezige kenmerken maken
-description: Leer tips voor het maken van ongebogen karakteristieken in de Audience Manager.
+description: Leer tips voor het maken van onbemande functies in Audience Manager.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Aan boord aanwezige kenmerken maken
 
-Leer tips voor het maken van ongebogen karakteristieken in de Audience Manager.
+Leer tips voor het maken van onbemande functies in Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

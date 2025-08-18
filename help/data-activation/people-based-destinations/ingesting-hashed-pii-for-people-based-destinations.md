@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # De hoogste gehakte PII voor Op mensen-gebaseerde Doelen
 
-In deze video leert u hoe u een op een bestand gebaseerde id-synchronisatie kunt opmaken om uw klant-id&#39;s (CRM-id&#39;s) te koppelen aan gehashte e-mailadressen. Hierdoor kunt u de gehashte e-mailadressen naar op mensen gebaseerde doelen verzenden, zoals [!DNL Facebook].
+In deze video leert u hoe u een op een bestand gebaseerde id-synchronisatie kunt opmaken om uw klant-id&#39;s (CRM-id&#39;s) te koppelen aan gehashte e-mailadressen. Hierdoor kunt u de gehashte e-mailadressen naar Op personen gebaseerde doelen verzenden, zoals [!DNL Facebook] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

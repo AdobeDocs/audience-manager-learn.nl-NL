@@ -1,6 +1,6 @@
 ---
 title: Een apparaatgegevensbron maken voor verificatie
-description: Leer hoe u een gegevensbron voor meerdere apparaten maakt voor verificatie. Zie hoe u uw CRM-gegevens van de eerste partij in de Audience Manager kunt plaatsen om uw klanten beter te richten en stel de methode setCustomerIDs() in Platform-tags voor aanmeldingen in.
+description: Leer hoe u een gegevensbron voor meerdere apparaten maakt voor verificatie. Ontdek hoe u uw CRM-gegevens van de eerste partij naar Audience Manager kunt brengen om uw klanten beter te richten en stel de methode setCustomerIDs() in Platform-tags voor aanmeldingen in.
 feature: Data Sources
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Een apparaatgegevensbron maken en verifiëren
 
-Wanneer u uw gegevens van eerste partijCRM in Audience Manager wilt brengen om uw klanten beter te richten, moet u eerst een dwars-apparatengegevensbron creëren om CRM IDs en gegevens op te slaan. Dit toont u hoe te om dat te doen en aan opstelling `setCustomerIDs()` methode in Experience Platform markeringen voor logins.
+Wanneer u uw gegevens van eerste partijCRM in Audience Manager wilt brengen om uw klanten beter te richten, moet u eerst een dwars-apparatengegevensbron creëren om CRM IDs en gegevens op te slaan. U ziet hoe u dat doet en hoe u de methode `setCustomerIDs()` instelt in Experience Platform-tags voor logins.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

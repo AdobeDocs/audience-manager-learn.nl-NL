@@ -1,5 +1,5 @@
 ---
-title: Een gegevensbron maken voor analysegegevens
+title: Een Data Source for Analytics-gegevens maken
 description: Leer hoe u een databron kunt maken voor gegevens die live worden ontvangen vanuit een analyseoplossing zoals Adobe Analytics. Dit doet u voordat u eigenschappen voor de analysegegevens maakt.
 landing-page-description: Leer hoe u een databron kunt maken voor gegevens die live worden ontvangen vanuit een analyseoplossing zoals Adobe Analytics. Dit doet u voordat u eigenschappen voor de analysegegevens maakt.
 short-description: Leer hoe u een databron kunt maken voor gegevens die live worden ontvangen vanuit een analyseoplossing zoals Adobe Analytics. Dit doet u voordat u eigenschappen voor de analysegegevens maakt.
@@ -16,8 +16,8 @@ ht-degree: 60%
 
 ---
 
-# Een [!UICONTROL Data Source] for [!DNL Analytics] Gegevens {#create-a-data-source-for-analytics-data}
+# Een [!UICONTROL Data Source] voor [!DNL Analytics] gegevens maken {#create-a-data-source-for-analytics-data}
 
-In deze video doorlopen we de stappen, inclusief tips en trucs, voor het maken van een [!UICONTROL Data Source] in Audience Manager die u kunt gebruiken voor gegevens die rechtstreeks afkomstig zijn van een analyseoplossing zoals Adobe Analytics. Dit moet gebeuren voordat u eigenschappen voor de analysegegevens maakt.
+In deze video doorlopen we de stappen, inclusief tips en trucs, voor het maken van een [!UICONTROL Data Source] in Audience Manager die u kunt gebruiken voor gegevens die live worden verzonden vanuit een analyseoplossing zoals Adobe Analytics. Dit moet gebeuren voordat u eigenschappen voor de analysegegevens maakt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

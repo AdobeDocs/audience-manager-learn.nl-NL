@@ -10,7 +10,7 @@ level: Beginner
 exl-id: d8b21d85-d718-4837-9f80-7686b8511ff8
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Deze video helpt u gelijke Tarieven in Adobe Audience Manager te begrijpen, wat 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Ga voor meer informatie naar de [documentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=nl-NL).
+Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).

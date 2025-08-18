@@ -1,6 +1,6 @@
 ---
 title: Commercialiseren van publiek in eigendom op Marketplace
-description: In deze video leert u hoe u uw gegevens instelt als een persoonlijke of openbare gegevensfeed op de Audience Marketplace, waardoor u een gegevensaanbieder van gegevens van derden of van derden bent.
+description: In deze video leert u hoe u uw gegevens instelt als een privégegevensfeed of een openbare gegevensfeed op de Audience Marketplace, waardoor u een gegevensaanbieder van gegevens van derden of derden bent.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Commercialiseren van publiek in eigendom op Marketplace
 
-In deze video leert u hoe u uw gegevens instelt als een persoonlijke of openbare gegevensfeed op de Audience Marketplace. Zo kunt u een gegevensaanbieder van tweede of externe gegevens worden.
+In deze video leert u hoe u uw gegevens instelt als een persoonlijke of openbare gegevensfeed op de Audience Marketplace, zodat u een gegevensaanbieder van tweede of externe gegevens kunt worden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

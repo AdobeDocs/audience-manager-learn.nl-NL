@@ -1,6 +1,6 @@
 ---
 title: API-referenties ophalen in Adobe Developer
-description: In plaats van contact op te nemen met Adobe Consulting of de klantenservice voor referenties voor het gebruik van de REST API, kunt u gewoon naar developer.adobe.com gaan in een browser en uw eigen gegevens ophalen of registreren.
+description: In plaats van contact op te nemen met Adobe Consulting of de klantenservice voor referenties voor het gebruik van de REST API, kunt u gewoon naar developer.adobe.com gaan in een browser en uw eigen referenties ophalen of registreren.
 feature: API
 topics: null
 activity: develop
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # API-referenties ophalen in [!DNL Adobe Developer]
 
-In plaats van contact op te nemen met Adobe Consulting of de klantenservice voor referenties voor het gebruik van de REST API, kunt u gewoon naar developer.adobe.com gaan in een browser en uw eigen gegevens ophalen of registreren.
+In plaats van contact op te nemen met Adobe Consulting of de klantenservice voor referenties voor het gebruik van de REST API, kunt u gewoon naar developer.adobe.com gaan in een browser en uw eigen referenties ophalen of registreren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Een gegevensbron kiezen bij het maken van eigenschappen
-description: Een van de belangrijke velden die u moet invullen wanneer u eigenschappen maakt, is het veld Gegevensbron. Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en ongebogen eigenschappen.
+description: Een van de belangrijke velden die u moet invullen wanneer u eigenschappen maakt, is het veld Data Source. Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en ongebogen eigenschappen.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Een gegevensbron kiezen bij het maken van eigenschappen
 
-Een van de belangrijke velden die u moet invullen bij het maken van kenmerken is de [!UICONTROL Data Source] veld. Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en ongebogen eigenschappen.
+Een van de belangrijke velden die u moet invullen wanneer u eigenschappen maakt, is het veld [!UICONTROL Data Source] . Krijg uiteinden bij het kiezen van de juiste gegevensbron voor op regel-gebaseerde en ongebogen eigenschappen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

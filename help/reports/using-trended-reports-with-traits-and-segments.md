@@ -1,6 +1,6 @@
 ---
 title: Trend Reports gebruiken met kenmerken en segmenten
-description: Leer hoe te om de Rapporten van de Trend in Audience Manager te gebruiken om te zien hoe de eigenschappen en de segmenten in tijd presteren.
+description: Leer hoe u de Trend Reports in Audience Manager kunt gebruiken om te zien hoe de kenmerken en segmenten in de loop der tijd presteren.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Trend Reports gebruiken met kenmerken en segmenten
 
-Leer hoe te om de trended rapporten in Audience Manager te gebruiken om te zien hoe de eigenschappen en de segmenten in tijd presteren.
+Leer hoe u de trended-rapporten in Audience Manager kunt gebruiken om te zien hoe kenmerken en segmenten in de loop der tijd presteren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

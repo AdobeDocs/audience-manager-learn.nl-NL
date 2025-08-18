@@ -1,6 +1,6 @@
 ---
 title: Identiteitsrapportage publiek interpreteren
-description: Publiek-identiteitsrapportage biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
+description: Publiek-identiteitsrapportage biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe deze in de Audience Manager-rapporten wordt getoond.
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Identiteitsrapportage publiek interpreteren
 
-De rapportage van de identiteit van het publiek biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe het in de rapporten van de Audience Manager wordt getoond.
+De rapportage van de identiteit van het publiek biedt klanten de mogelijkheid om de totale populatie van een eigenschap of segment te rapporteren per persoon/huishouden-definitie van identiteit. Bekijk deze video om te zien hoe deze in de Audience Manager-rapporten wordt getoond.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

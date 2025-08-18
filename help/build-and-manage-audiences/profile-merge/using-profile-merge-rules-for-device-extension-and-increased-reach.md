@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Gebruiken [!UICONTROL Profile Merge Rules] voor apparaatuitbreiding en verhoogd bereik
+# Gebruik [!UICONTROL Profile Merge Rules] voor apparaatextensie en hoger bereik
 
-Gebruiken [!UICONTROL Profile Merge Rules] om het bereik uit te breiden tot alle apparaten van een gebruiker, zodat u mensen in plaats van apparaten op de markt kunt brengen.
+Gebruik [!UICONTROL Profile Merge Rules] om het bereik uit te breiden naar alle apparaten van een gebruiker, zodat u deze op de markt kunt brengen voor mensen in plaats van voor apparaten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

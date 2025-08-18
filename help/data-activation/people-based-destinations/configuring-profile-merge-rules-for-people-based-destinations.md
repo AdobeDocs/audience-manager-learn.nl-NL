@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Configureren [!UICONTROL Profile Merge Rules] voor op mensen gebaseerde bestemmingen
+# [!UICONTROL Profile Merge Rules] configureren voor op mensen gebaseerde doelen
 
-In deze video leert u hoe u een [!UICONTROL Profile Merge Rule] te gebruiken voor Op mensen gebaseerde Doelen, met inbegrip van wanneer om een gloednieuwe dwars-apparatenoptie te gebruiken.
+In deze video leert u hoe u een [!UICONTROL Profile Merge Rule] instelt die moet worden gebruikt voor op mensen gebaseerde doelen, inclusief wanneer u een gloednieuwe optie voor meerdere apparaten gebruikt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

@@ -24,7 +24,7 @@ In deze video leert u hoe en waarom u specifieke (of groepen) kenmerken wilt uit
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
-Gebruik voor deze functie de volgende gevallen:
+Gebruik voor deze functie onder andere de volgende gevallen:
 
 * Zeer gebruikelijke kenmerken, zoals de kenmerken van de bezoeker van de site, zijn het model dat niet nuttig zal zijn om een publiek met een vergelijkbare kwaliteit te vinden. Klanten hoeven niet langer een aparte gegevensbron te maken en gemeenschappelijke kenmerken in de nieuwe gegevensbron op te slaan, maar kunnen deze nu gewoon uitsluiten.
 * Er is nu een manier om een subset van kenmerken van een derde te gebruiken, zoals alleen gedragsbelangen, in plaats van alle informatie in een model. De derden verzenden gewoonlijk veel gegevens die niet nuttig voor de klant zouden kunnen zijn. In sommige gevallen mogen ze niet alle gegevens vanuit een wettelijk perspectief gebruiken in modellering. Nu kunt u eigenschappen of omslagen van eigenschappen uitsluiten die u niet in het model wilt omvatten.

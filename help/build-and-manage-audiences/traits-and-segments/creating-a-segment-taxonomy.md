@@ -1,6 +1,6 @@
 ---
 title: Een segmenttaxonomie maken
-description: Wanneer u een segment in Audience Manager creeert, slaat u hen in een omslag-gebaseerde structuur, of een "taxonomie op." Leer enkele tips voor het maken en beheren van de segmenttaxonomie.
+description: Wanneer u een segment maakt in Audience Manager, slaat u deze op in een op mappen gebaseerde structuur of in een 'taxonomie'. Leer enkele tips voor het maken en beheren van de segmenttaxonomie.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Een segmenttaxonomie maken
 
-Wanneer u een segment in Audience Manager creeert, slaat u hen in een omslag-gebaseerde structuur, of een &quot;taxonomie op.&quot; Leer enkele tips voor het maken en beheren van de segmenttaxonomie.
+Wanneer u een segment maakt in Audience Manager, slaat u deze op in een op mappen gebaseerde structuur of in een &#39;taxonomie&#39;. Leer enkele tips voor het maken en beheren van de segmenttaxonomie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)

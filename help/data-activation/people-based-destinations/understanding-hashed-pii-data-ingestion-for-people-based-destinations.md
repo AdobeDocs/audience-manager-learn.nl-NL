@@ -1,6 +1,6 @@
 ---
 title: Begrijpen van de Gehakte Ingestie van PII- Gegevens voor Mensen-gebaseerde Doelen
-description: Deze video zal op de dingen u moeten nadenken aangezien u bereid bent om PII in Audience Manager voor Op mensen-gebaseerde Doelen in te voeren.
+description: Deze video gaat over de dingen die u in overweging moet nemen wanneer u klaar bent om PII in Audience Manager for People-based Doelen in te voeren.
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Begrijpen van de Gehakte Ingestie van PII- Gegevens voor Mensen-gebaseerde Doelen
 
-Deze video zal op de dingen u moeten nadenken aangezien u bereid bent om PII in Audience Manager voor Op mensen-gebaseerde Doelen in te voeren.
+Deze video gaat over de dingen die u in overweging moet nemen wanneer u klaar bent om PII in Audience Manager for People-based Doelen in te voeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

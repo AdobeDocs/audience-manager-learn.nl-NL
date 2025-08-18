@@ -1,6 +1,6 @@
 ---
 title: Creeer een gegevensbron voor Mensen-gebaseerde Doelen
-description: Leer hoe te om een gegevensbron in Audience Manager tot stand te brengen die voor op mensen-gebaseerde Doelen moet worden gebruikt.
+description: Leer hoe u in Audience Manager een gegevensbron maakt die voor op mensen gebaseerde doelen moet worden gebruikt.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Een [!UICONTROL Data Source] voor op mensen gebaseerde bestemmingen
+# Een [!UICONTROL Data Source] maken voor op mensen gebaseerde doelen
 
-In deze video wordt u door het maken van een [!UICONTROL Data Source] in Audience Manager die voor op mensen-gebaseerde Doelen moet worden gebruikt.
+In deze video wordt u door het maken van een [!UICONTROL Data Source] in Audience Manager geleid die voor op mensen gebaseerde doelen moet worden gebruikt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

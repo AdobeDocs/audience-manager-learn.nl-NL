@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Op rol-gebaseerde toegangsbeheer in Adobe Audience Manager staat u toe om toestemmingen op groepsniveau te beheren, die wie krijgt om met activa, met inbegrip van eigenschappen, segmenten, bestemmingen, en modellen te zien en te werken. Leer hoe u machtigingsgroepen instelt en gebruikers eraan toevoegt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449393/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

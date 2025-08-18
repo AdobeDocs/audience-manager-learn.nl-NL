@@ -1,6 +1,6 @@
 ---
 title: Algemene rapporten gebruiken met kenmerken en segmenten
-description: In deze video, zie hoe te om de Algemene Rapporten in Audience Manager te gebruiken om aantallen voor eigenschappen en segmenten te krijgen.
+description: In deze video ziet u hoe u de algemene rapporten in Audience Manager kunt gebruiken om getallen voor kenmerken en segmenten op te halen.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Algemene rapporten gebruiken met kenmerken en segmenten
 
-In deze video ziet u hoe u de algemene rapporten in de Audience Manager kunt gebruiken om getallen voor kenmerken en segmenten op te halen.
+In deze video ziet u hoe u de algemene rapporten in Audience Manager kunt gebruiken om getallen voor kenmerken en segmenten op te halen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

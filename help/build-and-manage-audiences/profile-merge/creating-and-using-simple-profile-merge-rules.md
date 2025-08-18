@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Eenvoudig maken en gebruiken [!UICONTROL Profile Merge Rules]
 
-Meer informatie over [!UICONTROL Profile Merge Rules] en hoe u deze aan segmenten toewijst. Meer informatie over de standaard [!UICONTROL Current Device] en wanneer deze kan en moet worden gebruikt.
+Leer meer over [!UICONTROL Profile Merge Rules] en hoe u deze aan segmenten toewijst. Leer meer over het standaard [!UICONTROL Current Device] profiel en wanneer het kan en moet worden gebruikt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)
