@@ -24,4 +24,4 @@ Deze video doorloopt de filters en aanbevelingen opties in [!UICONTROL Audience 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=nl-NL).

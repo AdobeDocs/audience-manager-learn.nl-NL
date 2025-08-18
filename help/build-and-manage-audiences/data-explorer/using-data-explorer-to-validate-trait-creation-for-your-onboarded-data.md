@@ -26,4 +26,4 @@ Een van de krachtigste functies van Audience Manager is de mogelijkheid om offli
 
 In veel gevallen creëert u eigenschappen voor gegevens aan boord voordat u de gegevens daadwerkelijk aan boord hebt. Het is echter mogelijk dat er onderweg nieuwe sleutels en waarden worden toegevoegd en dat u niet langer alle kenmerken hebt die u nodig hebt om deze geweldige gegevens te gebruiken. Met [!UICONTROL Data Explorer] kunt u snel zoeken naar al uw gegevens aan boord en filteren met specifieke [!UICONTROL Data Source] . U kunt zelfs naar de sleutel en/of waarde filteren. Met deze zoekopdracht kunt u uw gegevens efficiënt valideren.
 
-Voor meer informatie over [!DNL Data Explorer], bezoek [ https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en ](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Voor meer informatie over [!DNL Data Explorer], bezoek [ https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=nl-NL ](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

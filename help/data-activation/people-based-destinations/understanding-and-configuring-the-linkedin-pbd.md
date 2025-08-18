@@ -24,6 +24,6 @@ In deze video worden de concepten en stappen besproken voor het maken van een lu
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=nl-NL).
 
 U kunt extra video&#39;s betreffende Op mensen-gebaseerde Doelen [ HER ](https://adobe.ly/aamlearnpbd) ook vinden.

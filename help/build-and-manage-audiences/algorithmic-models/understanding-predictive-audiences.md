@@ -24,4 +24,4 @@ In deze video leert u meer over Audience Manager [!UICONTROL Predictive Audience
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
+Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=nl-NL).

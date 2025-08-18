@@ -24,4 +24,4 @@ In deze video identificeren we vier gangbare Audience Manager-gebruiksgevallen e
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=nl-NL).

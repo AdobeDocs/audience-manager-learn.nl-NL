@@ -26,8 +26,8 @@ Als u van Audience Manager naar Real-time Customer Data Platform overschakelt, i
 
 Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies die u kunnen helpen meer te leren over het realtime platform voor klantgegevens. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
-* [ creeer een schema gebruikend de Redacteur van het Schema ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [ creeer datasets ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [ creeer segmenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
-* [ creeer dynamische segmenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
-* [ creeer multi-entiteitsegmenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)
+* [ creeer een schema gebruikend de Redacteur van het Schema ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=nl-NL#getting-started)
+* [ creeer datasets ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=nl-NL#permissions-required)
+* [ creeer segmenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=nl-NL#segments)
+* [ creeer dynamische segmenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=nl-NL#segments)
+* [ creeer multi-entiteitsegmenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=nl-NL#segments)

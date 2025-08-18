@@ -40,7 +40,7 @@ Als u niet zeker weet of [!DNL tracking server forwarding] voor u is ingeschakel
 
 ## [!UICONTROL Report-suite] op server-niveau door:sturen {#report-suite-level-server-side-forwarding}
 
-Een van de grootste voordelen van de overgang naar [!UICONTROL report suite] forward van [!UICONTROL tracking server] door:sturen is dat u nu &quot;Audience Analytics&quot; kunt gebruiken, namelijk de mogelijkheid om Audience Manager [!UICONTROL segments] terug naar Adobe Analytics te sturen voor gedetailleerde segmentanalyse. Deze fantastische functie wordt NIET ondersteund als u [!UICONTROL tracking server] door:sturen gebruikt en [!UICONTROL report suite] niet. Zie meer informatie over Audience Analytics in de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Een van de grootste voordelen van de overgang naar [!UICONTROL report suite] forward van [!UICONTROL tracking server] door:sturen is dat u nu &quot;Audience Analytics&quot; kunt gebruiken, namelijk de mogelijkheid om Audience Manager [!UICONTROL segments] terug naar Adobe Analytics te sturen voor gedetailleerde segmentanalyse. Deze fantastische functie wordt NIET ondersteund als u [!UICONTROL tracking server] door:sturen gebruikt en [!UICONTROL report suite] niet. Zie meer informatie over Audience Analytics in de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

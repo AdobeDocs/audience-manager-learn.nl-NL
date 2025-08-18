@@ -26,5 +26,5 @@ Deze video is bedoeld voor Audience Manager-gebruikers die overstappen op Real-t
 
 Hieronder vindt u bestaande video&#39;s en bronnen die u kunnen helpen meer te weten te komen over het Real-Time Customer Data Platform. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
-* [ Begrijpend Tanden in Echte tijd CDP voor de Gebruikers van Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [ Begrijpend Segmenten in real time CDP voor de Gebruikers van Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [ Begrijpend Tanden in Echte tijd CDP voor de Gebruikers van Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=nl-NL#other-integrations)
+* [ Begrijpend Segmenten in real time CDP voor de Gebruikers van Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=nl-NL#other-integrations)

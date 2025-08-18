@@ -89,13 +89,13 @@ Wanneer een onjuiste globale apparaat-id (IDFA, GAID, enz.) in real time naar Au
 
 ![ foutenbeeld ](assets/image_4_.png)
 
-Gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) voor de lijst van foutencodes.
+Gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=nl-NL#api-and-sdk-code) voor de lijst van foutencodes.
 
 ## Algemene apparaat-id&#39;s aan boord {#onboarding-global-device-ids}
 
-Naast real time voorlegging van Globale Apparaat IDs, kunt u ook &quot;[!DNL onboard] &quot;- (upload) gegevens tegen IDs eveneens. Dit proces is het zelfde als wanneer u gegevens tegen uw klant IDs (typisch via sleutel/waardeparen) opneemt, maar u zou eenvoudig de juiste Gegevens Source IDs gebruiken, zodat de gegevens aan globale apparatenidentiteitskaart worden toegewezen. De documentatie over het aan boord gaan proces kan in de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides) worden gevonden. Denk eraan dat u de globale gegevensbron-id wilt gebruiken, afhankelijk van het platform dat u gebruikt.
+Naast real time voorlegging van Globale Apparaat IDs, kunt u ook &quot;[!DNL onboard] &quot;- (upload) gegevens tegen IDs eveneens. Dit proces is het zelfde als wanneer u gegevens tegen uw klant IDs (typisch via sleutel/waardeparen) opneemt, maar u zou eenvoudig de juiste Gegevens Source IDs gebruiken, zodat de gegevens aan globale apparatenidentiteitskaart worden toegewezen. De documentatie over het aan boord gaan proces kan in de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=nl-NL#implementation-integration-guides) worden gevonden. Denk eraan dat u de globale gegevensbron-id wilt gebruiken, afhankelijk van het platform dat u gebruikt.
 
-Als onjuiste globale apparaat IDs door het onboarding proces wordt voorgelegd, zullen de fouten in [[!DNL Onboarding Status Report] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting) tonen.
+Als onjuiste globale apparaat IDs door het onboarding proces wordt voorgelegd, zullen de fouten in [[!DNL Onboarding Status Report] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=nl-NL#reporting) tonen.
 
 Hieronder ziet u een voorbeeld van een fout die in dat rapport wordt vermeld:
 

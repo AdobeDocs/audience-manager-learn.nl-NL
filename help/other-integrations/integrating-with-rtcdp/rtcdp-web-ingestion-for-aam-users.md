@@ -26,6 +26,6 @@ Deze video toont de gebruikers van Audience Manager de concepten betreffende het
 
 Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies die u kunnen helpen meer te leren over het realtime platform voor klantgegevens. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
-* [ Samenvatting gegevens gebruikend de gegevensschakelaar van Adobe Audience Manager ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [ Adobe Experience Platform Web SDK Zelfstudies ](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [ creeer een schema gebruikend de Redacteur van het Schema ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [ Samenvatting gegevens gebruikend de gegevensschakelaar van Adobe Audience Manager ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=nl-NL#sources)
+* [ Adobe Experience Platform Web SDK Zelfstudies ](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=nl-NL)
+* [ creeer een schema gebruikend de Redacteur van het Schema ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=nl-NL#getting-started)

@@ -24,4 +24,4 @@ Doorloop de velden in de gebruikersinterface om een segment te maken in Audience
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Voor meer informatie betreffende segmenten, te zien gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Voor meer informatie betreffende segmenten, te zien gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=nl-NL).

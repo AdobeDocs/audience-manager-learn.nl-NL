@@ -26,4 +26,4 @@ In deze video leert u de stappen die u moet ondernemen wanneer u offlinegegevens
 
 Voor een video betreffende gegevens die voor binnenkomende dossiers formatteren, klik [ HER ](formatting-and-ingesting-file-based-data.md).
 
-Voor extra informatie, gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Voor extra informatie, gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=nl-NL).

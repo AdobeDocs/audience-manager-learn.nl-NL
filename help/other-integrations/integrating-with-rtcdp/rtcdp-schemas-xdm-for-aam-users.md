@@ -26,6 +26,6 @@ Als u van Audience Manager naar Real-Time Customer Data Platform (Real-time CDP)
 
 Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies die u kunnen helpen meer te leren over het realtime platform voor klantgegevens. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
-* [ Begrijpend het XDM systeem &amp; het Model van Gegevens van de Ervaring ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
-* [ creeer schema&#39;s ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
-* [ creeer een schema gebruikend de Redacteur van het Schema ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [ Begrijpend het XDM systeem &amp; het Model van Gegevens van de Ervaring ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=nl-NL)
+* [ creeer schema&#39;s ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=nl-NL)
+* [ creeer een schema gebruikend de Redacteur van het Schema ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=nl-NL#getting-started)

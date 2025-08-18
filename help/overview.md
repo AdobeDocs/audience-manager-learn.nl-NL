@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Audience Manager-zelfstudies
 
-Welkom bij de website van Audience Manager voor zelfstudies. Het gebruiken van deze leerprogramma&#39;s samen met de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) zal u een beter begrip geven hoe te om Adobe Audience Manager te gebruiken om publiek op om het even welk kanaal of apparaat tot stand te brengen en te activeren gebruikend Adobe best-in-klasse [!DNL data management platform].
+Welkom bij de website van Audience Manager voor zelfstudies. Het gebruiken van deze leerprogramma&#39;s samen met de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=nl-NL) zal u een beter begrip geven hoe te om Adobe Audience Manager te gebruiken om publiek op om het even welk kanaal of apparaat tot stand te brengen en te activeren gebruikend Adobe best-in-klasse [!DNL data management platform].
 
 * **benadrukt enkele van onze favoriete inhoud van de Pictogrammen van het Personeel**
 * Onderzoek de inhoud door onderwerp en subtopic in de **linkernavigatie**
@@ -38,11 +38,11 @@ Welkom bij de website van Audience Manager voor zelfstudies. Het gebruiken van d
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;Adobe Experience Cloud implementeren met web SDK&apos;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL">
     <strong> voer Adobe Experience Cloud met het leerprogramma van SDK van het Web uit </strong>
     </a>
     </div>
@@ -51,11 +51,11 @@ Welkom bij de website van Audience Manager voor zelfstudies. Het gebruiken van d
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=nl-NL">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;Segmenten in real-time CDP begrijpen&apos;" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=nl-NL">
     <strong> Begrijpend Segmenten in real time CDP voor de Gebruikers van Audience Manager </strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Welkom bij de website van Audience Manager voor zelfstudies. Het gebruiken van d
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=nl-NL">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;Configure and report on Predictive Audiences in Audience Manager&apos;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=nl-NL">
     <strong> vormt en rapporteert over Voorspelend publiek in Audience Manager </strong>
     </a>
     </div>
