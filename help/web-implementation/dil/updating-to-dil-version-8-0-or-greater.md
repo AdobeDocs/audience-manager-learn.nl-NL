@@ -34,7 +34,7 @@ In eerdere versies van DIL en ECID waren er dubbele methoden (methoden die dezel
 Bijvoorbeeld:
 
 * Bij het gebruik van [!DNL DIL.create] zijn een aantal elementen vervangen en moet u in plaats daarvan de ECID-elementen gebruiken. Deze elementen worden geroepen uit in de [[!DNL DIL.create]  documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html).
-* De [!DNL idSync] instantie-vlakke methode is ook afgekeurd, zoals die in de 1} documentatie van de methode [ wordt geroepen.](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html)
+* De [!DNL idSync] instantie-vlakke methode is ook afgekeurd, zoals die in de 1&rbrace; documentatie van de methode [ wordt geroepen.](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html)
 
 ## ID synchroniseren met een klant-id {#id-syncing-with-a-customer-id}
 
@@ -43,7 +43,7 @@ In AAM kunt u uw UUID (anonieme unieke gebruikersnaam) op de computer synchronis
 * De methode op instantieniveau [!DNL idSync]
 * Het element [!DNL declaredId] in [!DNL DIL.create]
 
-Als u een van deze oudere methoden hebt gebruikt om te synchroniseren met een klant-id, is het raadzaam een update uit te voeren naar de methode [!DNL setCustomerIDs] , die deel uitmaakt van de ECID-service. Meer informatie over [!DNL setCustomerIDs] is beschikbaar in de 1} documentatie van de methode [.](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html)
+Als u een van deze oudere methoden hebt gebruikt om te synchroniseren met een klant-id, is het raadzaam een update uit te voeren naar de methode [!DNL setCustomerIDs] , die deel uitmaakt van de ECID-service. Meer informatie over [!DNL setCustomerIDs] is beschikbaar in de 1&rbrace; documentatie van de methode [.](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html)
 
 **Snelle Uiteinde:** wanneer eerder het gebruiken van één van beiden van de methodes hierboven, u AAM [!UICONTROL Data Source] met [!UICONTROL Data Source] identiteitskaart (AKA &quot;DPID&quot;) van verwijzingen voorzien. Wanneer u een update uitvoert naar [!DNL setCustomerIDs] , moet u in plaats daarvan de instructies &quot; [!UICONTROL Data Source]&quot; van [!UICONTROL Integration Code] AAM gebruiken. Het verwijst nog steeds naar hetzelfde [!UICONTROL Data Source] , maar het is slechts een andere id. Dit wordt weergegeven in de onderstaande video.
 

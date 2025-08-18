@@ -75,7 +75,7 @@ Hieronder vindt u de algemene Advertising-id-pools voor apparaten die momenteel 
 Het instellen van de adverteerder-id in de app is eigenlijk twee stappen: eerst de adverteerder-id ophalen en vervolgens naar de Experience Cloud verzenden. Hieronder vindt u koppelingen voor het uitvoeren van deze stappen.
 
 1. De id ophalen
-   1. [!DNL Apple] de informatie over [!DNL advertising ID] kan [ ](https://developer.apple.com/documentation/adsupport/asidentifiermanager) HER worden gevonden.
+   1. [!DNL Apple] de informatie over [!DNL advertising ID] kan [&#128279;](https://developer.apple.com/documentation/adsupport/asidentifiermanager) HER worden gevonden.
    1. Sommige informatie over het plaatsen van [!DNL advertiser ID] voor [!DNL Android] ontwikkelaars kan [ HER ](http://android.cn-mirrors.com/google/play-services/id.html) worden gevonden.
 1. Verzend het naar de Experience Cloud met de methode [!DNL setAdvertisingIdentifier] in de SDK
    1. De informatie voor het gebruiken van `setAdvertisingIdentifier` is in de [ documentatie ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) voor zowel [!DNL iOS] als [!DNL Android].
