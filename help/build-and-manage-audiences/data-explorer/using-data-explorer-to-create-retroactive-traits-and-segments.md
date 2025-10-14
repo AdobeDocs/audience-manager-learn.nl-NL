@@ -26,4 +26,4 @@ In deze video wordt getoond hoe u retroactieve kenmerken kunt maken, zoals kenme
 
 Tot nu toe, toen u eigenschappen creeerde, verzamelden zij gegevens slechts wanneer zich het bewegen. Dit betekende dat je een hoop kenmerken moest creëren voor het geval ze verkeer of gegevens kregen. Nu, kunt u wachten om te zien welke sleutel/waardeparen gegevens ontvangen, dan creeer een eigenschap en backfill de gegevens in dat bezit. Dit bespaart u tijd en energie, en helpt u ook uw eigenschap taxonomie strak te houden, in plaats van verscheidene eigenschappen te hebben die geen gegevens hebben.
 
-Voor meer informatie over [!DNL Data Explorer], bezoek [ Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik ](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Voor meer informatie over [!DNL Data Explorer], bezoek [&#x200B; Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

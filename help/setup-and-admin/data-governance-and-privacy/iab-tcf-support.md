@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # IAB TCF 2.2-ondersteuning in Audience Manager {#iab-tcf-support-in-audience-manager}
 
-Adobe biedt u de middelen om de privacykeuzes van uw gebruikers te beheren en door te geven via de aanmeldingsfunctionaliteit en via de Audience Manager-plug-in naar IAB Transparency and Consent Framework 2.2 (TCF 2.2) ondersteuning. Dit artikel werkt samen met de documentatie om u te helpen de Plug-in van Audience Manager aan IAB TCF begrijpen en hoe het samen met het Opt-in van Adobe voorwerp en uw Consent Management Provider (CMP) werkt. Om meer over IAB te leren, gelieve hun Website in [ https://www.iabeurope.eu/ ](https://www.iabeurope.eu/) te zien.
+Adobe biedt u de middelen om de privacykeuzes van uw gebruikers te beheren en door te geven via de aanmeldingsfunctionaliteit en via de Audience Manager-plug-in naar IAB Transparency and Consent Framework 2.2 (TCF 2.2) ondersteuning. Dit artikel werkt samen met de documentatie om u te helpen de Plug-in van Audience Manager aan IAB TCF begrijpen en hoe het samen met het Opt-in van Adobe voorwerp en uw Consent Management Provider (CMP) werkt. Om meer over IAB te leren, gelieve hun Website in [&#x200B; https://www.iabeurope.eu/ &#x200B;](https://www.iabeurope.eu/) te zien.
 
 ## Eerste stap: Inloggen met Experience Cloud-id {#first-step-understand-ecid-s-opt-in}
 
-Als u wilt weten hoe u met IAB TCF werkt, moet u eerst de functionaliteit [!DNL Opt-in] begrijpen, die deel uitmaakt van de Experience Cloud ID Service-bibliotheek. Als u niet vertrouwd met hoe opt-in werken bent, te zien gelieve [ dit nuttige artikel ](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=nl-NL) eerst. U zou ook de Opt-in [ documentatie ](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=nl-NL) moeten herzien. Als u deze bronnen hebt doorlopen, gaat u terug naar deze pagina en gaat u verder.
+Als u wilt weten hoe u met IAB TCF werkt, moet u eerst de functionaliteit [!DNL Opt-in] begrijpen, die deel uitmaakt van de Experience Cloud ID Service-bibliotheek. Als u niet vertrouwd met hoe opt-in werken bent, te zien gelieve [&#x200B; dit nuttige artikel &#x200B;](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=nl-NL) eerst. U zou ook de Opt-in [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=nl-NL) moeten herzien. Als u deze bronnen hebt doorlopen, gaat u terug naar deze pagina en gaat u verder.
 
 ## De Audience Manager-insteekmodule voor IAB TCF {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -69,7 +69,7 @@ Een van de voordelen van het gebruik van de IAB TCF is dat de hierboven vermelde
 
 Voor de goedkeuring van Audience Manager (d.w.z. Om ervoor te zorgen dat de IAB-doeleinden voor Opt-in worden vertaald en AAM &quot;ja&quot; kunnen stemmen, moeten de doelstellingen 1 en 10, zoals hierboven vermeld, door de eindgebruiker worden goedgekeurd. Als een van deze twee opties niet is goedgekeurd of als een finder niet is goedgekeurd, voert AAM geen pixelbranden uit of worden cookies ingesteld. Het is ook goed om te weten dat veel klanten er gewoon voor kiezen om de eindgebruiker een interface &quot;alles of niets&quot; te bieden, die natuurlijk het gebruik van Audience Manager (en de andere Experience Cloud-oplossingen) zou toestaan of weigeren.
 
-Er is één of andere grote informatie in de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=nl-NL) over hoe de stop-binnen van Audience Manager voor de stroom van IAB TCF op zowel de Uitgever als Advertiser gebruiksgevallen van toepassing is.
+Er is één of andere grote informatie in de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=nl-NL) over hoe de stop-binnen van Audience Manager voor de stroom van IAB TCF op zowel de Uitgever als Advertiser gebruiksgevallen van toepassing is.
 
 ## IAB: Verzendtoestemming verderop {#iab-sending-consent-downstream}
 
@@ -86,4 +86,4 @@ In de onderstaande video ziet u hoe cookies en bakens van ECID en oplossingen wo
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-Voor meer gedetailleerde informatie over de stop-binnen van Audience Manager voor IAB TCF 2.2, met inbegrip van hoe te om uit te voeren en te testen, gebruiksgevallen, en werkschema, gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=nl-NL).
+Voor meer gedetailleerde informatie over de stop-binnen van Audience Manager voor IAB TCF 2.2, met inbegrip van hoe te om uit te voeren en te testen, gebruiksgevallen, en werkschema, gelieve te zien de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=nl-NL).

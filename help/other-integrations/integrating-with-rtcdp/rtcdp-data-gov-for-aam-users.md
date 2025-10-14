@@ -26,7 +26,7 @@ In deze video worden Audience Manager-gebruikers door de functionaliteit voor ge
 
 Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies die u kunnen helpen meer te leren over het realtime platform voor klantgegevens. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
-* [ Overzicht van het beheer van Gegevens ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=nl-NL#data-governance)
-* [ classificeer gegevens gebruikend governancelabels ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=nl-NL#data-governance)
-* [ creeer het beleid van het gegevensgebruik ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=nl-NL#data-governance)
-* [ dwingt het beleid van het gegevensgebruik in het Platform van Gegevens van de Klant in real time ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=nl-NL#data-governance) af
+* [&#x200B; Overzicht van het beheer van Gegevens &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=nl-NL#data-governance)
+* [&#x200B; classificeer gegevens gebruikend governancelabels &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=nl-NL#data-governance)
+* [&#x200B; creeer het beleid van het gegevensgebruik &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=nl-NL#data-governance)
+* [&#x200B; dwingt het beleid van het gegevensgebruik in het Platform van Gegevens van de Klant in real time &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=nl-NL#data-governance) af

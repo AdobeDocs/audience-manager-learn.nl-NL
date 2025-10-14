@@ -21,6 +21,6 @@ Deze video bespreekt u de verschillende soorten bestemmingen in Adobe Audience M
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-U kunt een lijst van beschikbare server-aan-server bestemmingspartners in de [ op apparaat-gebaseerde documentatie van Doelen van Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=nl-NL) zien.
+U kunt een lijst van beschikbare server-aan-server bestemmingspartners in de [&#x200B; op apparaat-gebaseerde documentatie van Doelen van Audience Manager &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=nl-NL) zien.
 
-Voor extra informatie betreffende bestemmingen, bezoek [ Doelen ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=nl-NL) in productdocumentatie.
+Voor extra informatie betreffende bestemmingen, bezoek [&#x200B; Doelen &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=nl-NL) in productdocumentatie.

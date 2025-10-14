@@ -25,6 +25,6 @@ Wanneer u het tweede en externe gegevensgebruik rapporteert in de [!UICONTROL Au
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 Naast deze tool voor bulkupload om uw gegevensgebruik te vereenvoudigen en tijd te besparen, profiteren klanten die gegevens van derden of derden aanschaffen in [!UICONTROL Audience Marketplace] van een verbeterd beleid voor kostentoewijzing. Dit nieuwe beleid kenmerkt kosten aan gegevensleveranciers die op de unieke gebruikerstelling van eigenschappen in een op regels-gebaseerd segment worden gebaseerd, resulterend in meer transparantie en billijkere gebruiksfacturering.
-Meer details op het facturerings algoritme kunnen in [ Attributie van Kosten voor de Eigen Gegevens van CPM ](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) in productdocumentatie worden gevonden.
+Meer details op het facturerings algoritme kunnen in [&#x200B; Attributie van Kosten voor de Eigen Gegevens van CPM &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) in productdocumentatie worden gevonden.
 
-Voor meer informatie over het melden van het gebruik van CPM, zie [ hoe te het Gebruik van CPM ](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) in productdocumentatie rapporteren.
+Voor meer informatie over het melden van het gebruik van CPM, zie [&#x200B; hoe te het Gebruik van CPM &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) in productdocumentatie rapporteren.

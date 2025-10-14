@@ -76,9 +76,9 @@ Het instellen van de adverteerder-id in de app is eigenlijk twee stappen: eerst 
 
 1. De id ophalen
    1. [!DNL Apple] de informatie over [!DNL advertising ID] kan [&#128279;](https://developer.apple.com/documentation/adsupport/asidentifiermanager) HER worden gevonden.
-   1. Sommige informatie over het plaatsen van [!DNL advertiser ID] voor [!DNL Android] ontwikkelaars kan [ HER ](http://android.cn-mirrors.com/google/play-services/id.html) worden gevonden.
+   1. Sommige informatie over het plaatsen van [!DNL advertiser ID] voor [!DNL Android] ontwikkelaars kan [&#x200B; HER &#x200B;](http://android.cn-mirrors.com/google/play-services/id.html) worden gevonden.
 1. Verzend het naar de Experience Cloud met de methode [!DNL setAdvertisingIdentifier] in de SDK
-   1. De informatie voor het gebruiken van `setAdvertisingIdentifier` is in de [ documentatie ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) voor zowel [!DNL iOS] als [!DNL Android].
+   1. De informatie voor het gebruiken van `setAdvertisingIdentifier` is in de [&#x200B; documentatie &#x200B;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) voor zowel [!DNL iOS] als [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
@@ -87,16 +87,16 @@ Het instellen van de adverteerder-id in de app is eigenlijk twee stappen: eerst 
 
 Wanneer een onjuiste globale apparaat-id (IDFA, GAID, enz.) in real time naar Audience Manager wordt verzonden, wordt een foutcode geretourneerd bij de hit. Hieronder ziet u een voorbeeld van een fout die wordt geretourneerd omdat de id wordt verzonden als een [!DNL Apple IDFA] . Deze mag alleen hoofdletters bevatten. De id bevat echter een kleine letter &#39;x&#39;.
 
-![ foutenbeeld ](assets/image_4_.png)
+![&#x200B; foutenbeeld &#x200B;](assets/image_4_.png)
 
-Gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=nl-NL#api-and-sdk-code) voor de lijst van foutencodes.
+Gelieve te zien de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=nl-NL#api-and-sdk-code) voor de lijst van foutencodes.
 
 ## Algemene apparaat-id&#39;s aan boord {#onboarding-global-device-ids}
 
-Naast real time voorlegging van Globale Apparaat IDs, kunt u ook &quot;[!DNL onboard] &quot;- (upload) gegevens tegen IDs eveneens. Dit proces is het zelfde als wanneer u gegevens tegen uw klant IDs (typisch via sleutel/waardeparen) opneemt, maar u zou eenvoudig de juiste Gegevens Source IDs gebruiken, zodat de gegevens aan globale apparatenidentiteitskaart worden toegewezen. De documentatie over het aan boord gaan proces kan in de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=nl-NL#implementation-integration-guides) worden gevonden. Denk eraan dat u de globale gegevensbron-id wilt gebruiken, afhankelijk van het platform dat u gebruikt.
+Naast real time voorlegging van Globale Apparaat IDs, kunt u ook &quot;[!DNL onboard] &quot;- (upload) gegevens tegen IDs eveneens. Dit proces is het zelfde als wanneer u gegevens tegen uw klant IDs (typisch via sleutel/waardeparen) opneemt, maar u zou eenvoudig de juiste Gegevens Source IDs gebruiken, zodat de gegevens aan globale apparatenidentiteitskaart worden toegewezen. De documentatie over het aan boord gaan proces kan in de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=nl-NL#implementation-integration-guides) worden gevonden. Denk eraan dat u de globale gegevensbron-id wilt gebruiken, afhankelijk van het platform dat u gebruikt.
 
-Als onjuiste globale apparaat IDs door het onboarding proces wordt voorgelegd, zullen de fouten in [[!DNL Onboarding Status Report] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=nl-NL#reporting) tonen.
+Als onjuiste globale apparaat IDs door het onboarding proces wordt voorgelegd, zullen de fouten in [[!DNL Onboarding Status Report] &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=nl-NL#reporting) tonen.
 
 Hieronder ziet u een voorbeeld van een fout die in dat rapport wordt vermeld:
 
-![ foutenbeeld ](assets/image_5_.png)
+![&#x200B; foutenbeeld &#x200B;](assets/image_5_.png)

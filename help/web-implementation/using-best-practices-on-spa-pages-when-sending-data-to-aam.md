@@ -29,7 +29,7 @@ Dit document beschrijft verscheidene beste praktijken voor het verzenden van geg
 
 ## Eenvoudig diagram van het werken met SPAs en AAM in de markeringen van Experience Platform (vroeger, Lancering){#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
-![ SPA voor naam in markeringen ](assets/spa_for_aam_in_launch.png)
+![&#x200B; SPA voor naam in markeringen &#x200B;](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
 >Zoals verklaard, is dit een vereenvoudigd diagram van hoe de pagina&#39;s van het KUUROORD in een implementatie van Adobe Audience Manager (zonder Adobe Analytics) gebruikend de markeringen van het Platform worden behandeld. Zoals u kunt zien, is het vrij recht-voorwaarts, met het grote besluit is hoe u een meningsverandering (of een actie) aan de markeringen van het Platform gaat meedelen.
@@ -38,14 +38,14 @@ Dit document beschrijft verscheidene beste praktijken voor het verzenden van geg
 
 Twee van de gemeenschappelijkere methodes om een regel in de markeringen van het Platform (en daarom het verzenden van gegevens naar Audience Manager) teweeg te brengen, zijn:
 
-* Het plaatsen van de douanegebeurtenissen van JavaScript (zie voorbeeld [ HER ](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) met Adobe Analytics)
+* Het plaatsen van de douanegebeurtenissen van JavaScript (zie voorbeeld [&#x200B; HER &#x200B;](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) met Adobe Analytics)
 * Een [!UICONTROL Direct Call Rule] gebruiken
 
 In dit Audience Manager-voorbeeld gebruikt u een [!UICONTROL Direct Call rule] in Platform-tag om de hit te activeren naar Audience Manager. Zoals u in de volgende secties zult zien, wordt dit handig door de [!UICONTROL Data Layer] in te stellen op een nieuwe waarde, zodat deze kan worden opgepakt door de [!UICONTROL Data Element] in de tags Platform.
 
 ## Demopagina {#demo-page}
 
-Hier is een kleine pagina die het veranderen van een waarde in de gegevenslaag en het verzenden van het in Audience Manager aantoont, aangezien u op een pagina van het KUUROORD kunt doen. Deze functionaliteit kan worden gemodelleerd voor uitgebreidere wijzigingen die nodig zijn. U kunt deze demopagina [ HER ](https://aam.enablementadobe.com/SPA-Launch.html) vinden.
+Hier is een kleine pagina die het veranderen van een waarde in de gegevenslaag en het verzenden van het in Audience Manager aantoont, aangezien u op een pagina van het KUUROORD kunt doen. Deze functionaliteit kan worden gemodelleerd voor uitgebreidere wijzigingen die nodig zijn. U kunt deze demopagina [&#x200B; HER &#x200B;](https://aam.enablementadobe.com/SPA-Launch.html) vinden.
 
 ## De gegevenslaag instellen {#setting-the-data-layer}
 
@@ -60,7 +60,7 @@ Als u naar de hierboven vermelde demosite gaat en naar de paginabron kijkt, ziet
 
 ## Aanvullende bronnen {#additional-resources}
 
-* [ bespreking van het KUUROORD op de forums van Adobe ](https://forums.adobe.com/thread/2451022)
-* [ de plaatsen van de Architectuur van de Verwijzing om te tonen hoe te om KUUROORD in de markeringen van het Platform uit te voeren ](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
-* [ Gebruikend beste praktijken wanneer het volgen van KUUROORD in Adobe Analytics ](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
-* [ plaats van de Demo die voor dit artikel wordt gebruikt ](https://aam.enablementadobe.com/SPA-Launch.html)
+* [&#x200B; bespreking van het KUUROORD op de forums van Adobe &#x200B;](https://forums.adobe.com/thread/2451022)
+* [&#x200B; de plaatsen van de Architectuur van de Verwijzing om te tonen hoe te om KUUROORD in de markeringen van het Platform uit te voeren &#x200B;](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [&#x200B; Gebruikend beste praktijken wanneer het volgen van KUUROORD in Adobe Analytics &#x200B;](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
+* [&#x200B; plaats van de Demo die voor dit artikel wordt gebruikt &#x200B;](https://aam.enablementadobe.com/SPA-Launch.html)

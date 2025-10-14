@@ -26,7 +26,7 @@ De echte kracht van Audience Manager-look-alike [!UICONTROL Modeling] is wanneer
 
 Als u tweedehands gegevens en gegevens van derden wilt gebruiken in een model dat lijkt op het uiterlijk, moeten we deze gegevens eerst inschakelen in uw Audience Manager-interface. Adobe heeft een groot aantal secundaire en externe gegevensproviders waaruit u kunt kiezen. Deze zijn beschikbaar voor u in een zelfserverinterface in AAM, via de Audience Marketplace. Navigeer naar de Audience Marketplace en blader door de mogelijkheden. In de volgende video ziet u hoe u dit kunt doen, inclusief hoe u gratis streams kunt inschakelen voordat u deze koopt, zodat u zich op de gegevens kunt aanmelden die het nuttigst zijn voor uw organisatie voordat u de prijs van de gegevensaanbieder doorvoert.
 
-Ook, om u te helpen onderzoeken en beslissen over welke gegevensleverancier te gebruiken, is een groot middel [[!DNL Adobe Audience Finder] ](https://www.adobe-audience-finder.com/).
+Ook, om u te helpen onderzoeken en beslissen over welke gegevensleverancier te gebruiken, is een groot middel [[!DNL Adobe Audience Finder] &#x200B;](https://www.adobe-audience-finder.com/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
 
@@ -40,7 +40,7 @@ Wanneer u Adobe Analytics-gebeurtenissen gebruikt om kenmerken te maken, moet u 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**NOTA:** in de video hierboven, het voorbeeld dat ik toon veronderstelt dat u Adobe Analytics hebt. Dat is natuurlijk niet het geval. Als u Google Analytics (GA) hebt, hebben wij een module die u kunt gebruiken om gegevens naar AAM (zie de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=nl-NL)) te verzenden, en als uw omzettingsactiviteit op uw plaats door GA naar AAM wordt verzonden, dan kunt u uw omzettingseigenschap van dat tot stand brengen. Als u een andere analyseoplossing hebt (of geen analyseoplossing), kunt u nog steeds gegevens naar AAM verzenden via onze DIL-code en de `submit` -functie, enzovoort. (zie de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=nl-NL)). Maak vervolgens de conversietekenmerken op basis van de gegevens die worden verzonden wanneer de conversieactiviteit op de site wordt uitgevoerd.
+**NOTA:** in de video hierboven, het voorbeeld dat ik toon veronderstelt dat u Adobe Analytics hebt. Dat is natuurlijk niet het geval. Als u Google Analytics (GA) hebt, hebben wij een module die u kunt gebruiken om gegevens naar AAM (zie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=nl-NL)) te verzenden, en als uw omzettingsactiviteit op uw plaats door GA naar AAM wordt verzonden, dan kunt u uw omzettingseigenschap van dat tot stand brengen. Als u een andere analyseoplossing hebt (of geen analyseoplossing), kunt u nog steeds gegevens naar AAM verzenden via onze DIL-code en de `submit` -functie, enzovoort. (zie de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=nl-NL)). Maak vervolgens de conversietekenmerken op basis van de gegevens die worden verzonden wanneer de conversieactiviteit op de site wordt uitgevoerd.
 
 ## Maak een model dat er uitziet van gegevens van derden of derden {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

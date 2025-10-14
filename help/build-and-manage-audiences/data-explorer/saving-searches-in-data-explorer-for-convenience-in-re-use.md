@@ -25,4 +25,4 @@ Leer in deze video hoe u een zoekopdracht configureert in [!DNL Data Explorer], 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Voor meer informatie over [!UICONTROL Data Explorer], bezoek [ Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik ](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Voor meer informatie over [!UICONTROL Data Explorer], bezoek [&#x200B; Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

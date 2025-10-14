@@ -26,4 +26,4 @@ Wanneer u met [!UICONTROL Trait Recommendations] een segment maakt of bewerkt in
 
 [!UICONTROL Trait Recommendations] werkt aan gegevens van zowel de eerste als de derde partij, zodat u extra aanbevolen [!UICONTROL Traits] kunt opnemen en het doelpubliek kunt vergroten.
 
-Voor meer informatie over deze eigenschap, gelieve de [ documentatie ](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html) te bezoeken.
+Voor meer informatie over deze eigenschap, gelieve de [&#x200B; documentatie &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html) te bezoeken.

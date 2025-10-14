@@ -26,6 +26,6 @@ Als u van Audience Manager naar Real-time Customer Data Platform overschakelt, i
 
 Hieronder vindt u een aantal bestaande video&#39;s en zelfstudies die u kunnen helpen meer te leren over het realtime platform voor klantgegevens. U kunt andere video&#39;s en zelfstudies hierover bekijken om meer te leren over Platform.
 
-* [ creeer een schema gebruikend de Redacteur van het Schema ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=nl-NL#getting-started)
-* [ creeer datasets en voer gegevens in ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=nl-NL#data-ingestion)
-* [ creeer segmenten ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=nl-NL#segments)
+* [&#x200B; creeer een schema gebruikend de Redacteur van het Schema &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=nl-NL#getting-started)
+* [&#x200B; creeer datasets en voer gegevens in &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=nl-NL#data-ingestion)
+* [&#x200B; creeer segmenten &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=nl-NL#segments)

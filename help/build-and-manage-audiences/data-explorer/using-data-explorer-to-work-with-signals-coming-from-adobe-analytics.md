@@ -28,4 +28,4 @@ Het is waarschijnlijk dat een van je belangrijkste bronnen van data die in Audie
 
 [!UICONTROL Data Explorer] is voorbereid en is klaar om u te helpen zien wat er binnenkomt uit verschillende rapportsuites. Als u [!DNL Analytics] -signalen ontdekt die nog niet in kenmerken worden gebruikt, kunt u rechtstreeks naar de [!DNL Trait Builder] klikken en de kenmerken maken om deze krachtige gedragsgegevens in uw segmentatie te gebruiken.
 
-Voor meer informatie over [!DNL Data Explorer], bezoek [ Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=nl-NL).
+Voor meer informatie over [!DNL Data Explorer], bezoek [&#x200B; Data Explorer - Overzicht, Voordelen, en Gevallen van het Gebruik &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=nl-NL).

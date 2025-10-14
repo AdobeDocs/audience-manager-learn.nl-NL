@@ -24,6 +24,6 @@ Wanneer u uw eerste partij naar Audience Manager brengt om uw klant beter te beg
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Voor een video betreffende dossier het noemen en het invoeren, klik [ HIER ](steps-for-ingesting-file-based-data.md).
+Voor een video betreffende dossier het noemen en het invoeren, klik [&#x200B; HIER &#x200B;](steps-for-ingesting-file-based-data.md).
 
-Voor extra informatie, gelieve te zien de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=nl-NL&).
+Voor extra informatie, gelieve te zien de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=nl-NL&).

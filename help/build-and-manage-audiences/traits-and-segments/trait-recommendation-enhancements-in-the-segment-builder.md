@@ -23,4 +23,4 @@ In deze video leert u hoe u de bijgewerkte aanbevelingen voor kenmerken in [!UIC
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=nl-NL).
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=nl-NL).

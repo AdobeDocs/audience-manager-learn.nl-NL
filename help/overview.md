@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Audience Manager-zelfstudies
 
-Welkom bij de website van Audience Manager voor zelfstudies. Het gebruiken van deze leerprogramma&#39;s samen met de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=nl-NL) zal u een beter begrip geven hoe te om Adobe Audience Manager te gebruiken om publiek op om het even welk kanaal of apparaat tot stand te brengen en te activeren gebruikend Adobe best-in-klasse [!DNL data management platform].
+Welkom bij de website van Audience Manager voor zelfstudies. Het gebruiken van deze leerprogramma&#39;s samen met de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=nl-NL) zal u een beter begrip geven hoe te om Adobe Audience Manager te gebruiken om publiek op om het even welk kanaal of apparaat tot stand te brengen en te activeren gebruikend Adobe best-in-klasse [!DNL data management platform].
 
 * **benadrukt enkele van onze favoriete inhoud van de Pictogrammen van het Personeel**
 * Onderzoek de inhoud door onderwerp en subtopic in de **linkernavigatie**

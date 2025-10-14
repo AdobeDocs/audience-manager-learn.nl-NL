@@ -21,4 +21,4 @@ In deze video wordt u door de interface [!UICONTROL Destination] geleid en worde
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Voor meer informatie, bezoek [ Adresseerbare Soorten publiek ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=nl-NL) in productdocumentatie.
+Voor meer informatie, bezoek [&#x200B; Adresseerbare Soorten publiek &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=nl-NL) in productdocumentatie.

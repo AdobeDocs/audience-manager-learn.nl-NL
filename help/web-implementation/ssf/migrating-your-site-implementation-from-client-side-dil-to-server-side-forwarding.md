@@ -26,7 +26,7 @@ Deze zelfstudie is op u van toepassing als u zowel Adobe Audience Manager (AAM) 
 
 Bij het vergelijken en contrasteren van deze twee methoden om Adobe Analytics-gegevens in AAM te plaatsen, kan het in de eerste plaats nuttig zijn om de verschillen in de volgende afbeelding te visualiseren:
 
-![ cliënt-kant aan server-kant ](assets/client-side_vs_server-side_aam_implementation.png)
+![&#x200B; cliënt-kant aan server-kant &#x200B;](assets/client-side_vs_server-side_aam_implementation.png)
 
 ### DIL-implementatie op de client {#client-side-dil-implementation}
 
@@ -74,7 +74,7 @@ In de volgende stappen wordt de implementatie beschreven.
 
 De belangrijkste voorwaarde voor de overgang naar server-kant door:sturen is dat de Experience Cloud ID Service wordt geïmplementeerd. Dit is het gemakkelijkst gedaan als u de Lancering van het Platform van de Ervaring gebruikt, waarbij u eenvoudig de uitbreiding ECID installeert en het de rest zal doen.
 
-Als u niet-Adobe TMS, of geen TMS bij allen gebruikt, dan gelieve ECID uit te voeren **vóór** om het even welke andere oplossingen van Adobe in werking te stellen. Zie de [ documentatie ECID ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) voor meer details. De enige andere voorwaarde is betreffende codeversies, zodat aangezien u eenvoudig de meest recente versies van de code in de volgende stappen toepast, zult u in orde zijn.
+Als u niet-Adobe TMS, of geen TMS bij allen gebruikt, dan gelieve ECID uit te voeren **vóór** om het even welke andere oplossingen van Adobe in werking te stellen. Zie de [&#x200B; documentatie ECID &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) voor meer details. De enige andere voorwaarde is betreffende codeversies, zodat aangezien u eenvoudig de meest recente versies van de code in de volgende stappen toepast, zult u in orde zijn.
 
 >[!NOTE]
 >
@@ -92,7 +92,7 @@ Aangezien u bereid wordt om zich van cliënt-kant DIL code aan server-kant door:
 
 ### Stap 2: De code bijwerken {#step-updating-the-code}
 
-In [ de opties van de Implementatie ](#implementation-options) (hierboven), worden de veelvoudige opties gegeven betreffende hoe en waar u server-kant het door:sturen uitvoert. Om deze paragraaf doeltreffend te maken, moeten we ze in deze secties opsplitsen (met twee gecombineerd). Ga naar de methode van deze sectie die uw behoeften het best beschrijft.
+In [&#x200B; de opties van de Implementatie &#x200B;](#implementation-options) (hierboven), worden de veelvoudige opties gegeven betreffende hoe en waar u server-kant het door:sturen uitvoert. Om deze paragraaf doeltreffend te maken, moeten we ze in deze secties opsplitsen (met twee gecombineerd). Ga naar de methode van deze sectie die uw behoeften het best beschrijft.
 
 #### Adobe Experience Platform-tags {#launch-by-adobe}
 
@@ -156,7 +156,7 @@ Op basis van deze technische details zijn hier de aanbevelingen voor de timing v
 
    1. Werk uw code zo snel mogelijk bij van client-side DIL naar single-side forward (dit kan in Platform-tags of op de pagina staan, zoals in een andere sectie hierboven is beschreven).
 
-      1. U zou een juiste reactie JSON op uw [!DNL Analytics] baken (zie de [ Bevestiging en het oplossen van problemensectie ](#validation-and-troubleshooting) hieronder voor meer details) moeten ontvangen.
+      1. U zou een juiste reactie JSON op uw [!DNL Analytics] baken (zie de [&#x200B; Bevestiging en het oplossen van problemensectie &#x200B;](#validation-and-troubleshooting) hieronder voor meer details) moeten ontvangen.
 
 >[!NOTE]
 >
@@ -200,6 +200,6 @@ Als u geen server-side het door:sturen van gegevens van [!DNL Analytics] aan Aud
 >Als u dit ziet, betekent dit dat u de code-update in Platform-tags of [!DNL AppMeasurement] hebt voltooid, maar dat het doorsturen in de [!DNL Analytics] [!DNL Admin Console] nog niet is voltooid. In dit geval moet u controleren of u het doorsturen aan de serverzijde hebt ingeschakeld in de lus [!DNL Analytics] [!DNL Admin Console] for your [!UICONTROL report suite] . Als je wel, en dat is nog geen 4 uur, geduld hebt, omdat het zo lang kan duren om alle noodzakelijke veranderingen op de achtergrond te maken.
 
 
-![ vals succes ](assets/falsesuccess.png)
+![&#x200B; vals succes &#x200B;](assets/falsesuccess.png)
 
-Voor meer informatie over server-kant door:sturen, gelieve de [ documentatie ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=nl-NL) te zien.
+Voor meer informatie over server-kant door:sturen, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=nl-NL) te zien.

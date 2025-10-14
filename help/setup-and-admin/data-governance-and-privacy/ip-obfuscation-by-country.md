@@ -23,4 +23,4 @@ Audience Manager biedt zelfservermogelijkheden in de gebruikersinterface om klan
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Voor meer informatie over deze eigenschap, gelieve de [ documentatie ](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html) te bezoeken.
+Voor meer informatie over deze eigenschap, gelieve de [&#x200B; documentatie &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html) te bezoeken.

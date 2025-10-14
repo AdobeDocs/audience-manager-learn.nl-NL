@@ -25,4 +25,4 @@ Begrijp de belangrijkste uitdagingen met dwars-kanaalpersonalisatie en hoe Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Voor meer informatie, bezoek de [ documentatie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=nl-NL).
+Voor meer informatie, bezoek de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=nl-NL).

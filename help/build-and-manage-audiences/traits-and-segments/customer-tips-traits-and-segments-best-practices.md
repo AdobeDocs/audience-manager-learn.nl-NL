@@ -28,4 +28,4 @@ Matt Vittorioso is Senior Marketing Specialist in het Digital Marketing team bij
 * De functionaliteit van het vak gebruiken
 * Periodiek beoordelen van kenmerken en segmenten
 
-[ las de Tips van Matt in de Gemeenschap van Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[&#x200B; las de Tips van Matt in de Gemeenschap van Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)

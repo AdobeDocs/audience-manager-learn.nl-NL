@@ -28,4 +28,4 @@ Varun Kalra is een consultant voor meerdere oplossingen die werkt in een Adobe S
 * Een doelgerichter gebruik
 * Gebruik gevallen voor verschillende PMR-instellingen
 
-[ las Varun&#39;s Tips in de Gemeenschap van Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[&#x200B; las Varun&#39;s Tips in de Gemeenschap van Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
