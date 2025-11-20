@@ -25,11 +25,11 @@ ht-degree: 2%
    + Waarderealisatie {#value-realization}
       + [Het meten van ROI in een het gebruikscase van de Onderdrukking van de Klant](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Nieuws en trends in de industrie {#industry}
-   + [&#x200B; De Toekomst van gegevensbeheer en het veranderende milieu &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [&#x200B; 10 overwegingen voor het verantwoordelijke beheer van klantengegevens &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [&#x200B; Een Taal van Twee Percepties - Merken vs. Consumenten &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [&#x200B; evoluerend uw Centrum van de Publiek van Uitmuntendheid &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [&#x200B; Bouwend betere ervaringen met klantenprofielen &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [&#x200B; De Toekomst van gegevensbeheer en het veranderende milieu &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=nl-NL)
+   + [&#x200B; 10 overwegingen voor het verantwoordelijke beheer van klantengegevens &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=nl-NL)
+   + [&#x200B; Een Taal van Twee Percepties - Merken vs. Consumenten &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=nl-NL)
+   + [&#x200B; evoluerend uw Centrum van de Publiek van Uitmuntendheid &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=nl-NL)
+   + [&#x200B; Bouwend betere ervaringen met klantenprofielen &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=nl-NL)
 + Instellen en beheren {#setup-and-admin}
    + Gegevensbronnen {#data-sources}
       + [Een gegevensbron maken voor analysegegevens](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Bijwerken naar DIL versie 8.0 (of hoger)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (server-kant door:sturen) {#ssf}
-      + [&#x200B; de markeringen van Experience Platform van het Gebruik om in Websites uit te voeren &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [&#x200B; de markeringen van Experience Platform van het Gebruik om in Websites uit te voeren &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=nl-NL)
       + [De AAM-implementatie van uw site migreren van client-side DIL naar server-side forward](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migreren van het volgen server aan reeks-Vlakke server-zijdoor:sturen](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Tagmanagers gebruiken om Audience Manager te implementeren](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,9 +56,9 @@ ht-degree: 2%
    + [Bestandsgegevens opmaken en invoeren](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Stappen voor het invoeren van op een bestand gebaseerde gegevens](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobiele implementatie {#mobile-implementation}
-   + [&#x200B; voer in de Verweven toepassingen van iOS uit &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [&#x200B; voer in iOS doelstelling-C toepassingen uit &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [&#x200B; voert in de toepassingen van Android uit &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [&#x200B; voer in de Verweven toepassingen van iOS uit &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=nl-NL)
+   + [&#x200B; voer in iOS doelstelling-C toepassingen uit &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=nl-NL)
+   + [&#x200B; voert in de toepassingen van Android uit &#x200B;](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=nl-NL)
 + Audience Marketplace {#audience-marketplace}
    + Gegevens kopen {#buying-data}
       + [Rapportage van het gebruik van gegevens van derden in Audience Marketplace op segmentniveau](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -130,7 +130,7 @@ ht-degree: 2%
       + [Met labels voor gegevensexport kunt u de gegevensstroom beheren](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Het Laboratorium van de Publiek van het gebruik om een DSP te kiezen](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [&#x200B; creeer omzettingseigenschappen &#x200B;](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+      + [&#x200B; creeer omzettingseigenschappen &#x200B;](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=nl-NL)
    + Op mensen gebaseerde Doelen {#people-based-destinations}
       + [Video&#39;s en zelfstudies over op personen gebaseerde doelen](data-activation/people-based-destinations/pbd.md)
       + [Gegevensstroom op basis van persoonlijke doelen](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
@@ -150,7 +150,7 @@ ht-degree: 2%
    + [Audience Optimization-rapporten gebruiken om inzicht te krijgen in mediaprestaties](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Overige integratie {#other-integrations}
    + Integreren met Real-Time Customer Data Platform {#integrating-with-rtcdp}
-      + [&#x200B; Samenvatting gegevens gebruikend de gegevensschakelaar van Adobe Audience Manager &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [&#x200B; Samenvatting gegevens gebruikend de gegevensschakelaar van Adobe Audience Manager &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=nl-NL#sources)
       + [Begrijp eerste-partij gegevensopname in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Begrijp de gegevensopname van het Web in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Begrijp schema&#39;s en XDM in Echt - tijd CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
